@@ -37,13 +37,28 @@
 11. https://www.youtube.com/channel/UCMTaJV_Gyp1YOWJwSNa0wRw 
 12. https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA 
 13. https://www.youtube.com/c/ZimaLive 
-14. https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A 
+14. https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A
+
+## Largest Russian Banks
+
+| No. | Bank                  |  Assets (₽M) | WWW (Attack Target)         |
+|-----|:---------------------:|-------------:| ---------------------------:|
+| 1.  | Sberbank              |  32 421 026  | https://www.sberbank.ru/    |
+| 2.  | VTB Bank              |  15 813 216  | https://www.vtb.com/        |
+| 3.  | Gazprombank           |   7 613 174  | https://www.gazprombank.ru/ |
+| 4.  | Alfa-Bank             |   4 229 025  | https://alfabank.com/       |
+| 5.  | Rosselkhozbank        |   3 539 546  | https://www.rshb.ru/        |
+| 6.  | Credit Bank of Moscow |   2 988 171  | https://mkb.ru/             |
+| 7.  | Otkritie FC Bank      |   2 530 760  |  N/A                        |
+| 8.  | Promsvyazbank         |   2 503 499  | https://www.psbank.ru/      |
+| 9.  | Sovcombank            |   1 576 708  | https://sovcombank.ru/      |
+| 10. | Raiffeisenbank        |   1 432 353  | https://www.raiffeisen.ru/  |
 
 ## Rules of Engagement
 
 1. VPN or risk arrest*.
 2. HTML DDOS (0 experience): https://norussian.tk/
 3. The Russians are closely following the Telegram channels. Post carefully.
-4. Task Monday - Skilled are to attack the sites of RU Bank.
+4. Skilled are to attack the sites of RU Banks (see list below).
 
 *most probably it refers to Russians living in Russia.
