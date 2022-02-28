@@ -54,6 +54,9 @@
 | 9.  | Sovcombank            |   1 576 708  | https://sovcombank.ru/      |
 | 10. | Raiffeisenbank        |   1 432 353  | https://www.raiffeisen.ru/  |
 
+## Suggestion
+Exploit web vulnerabilities, escalate to internal systems, collect intelligence and sabotage them. Share your experience and findings.
+
 ## Rules of Engagement
 
 1. VPN or risk arrest*.
