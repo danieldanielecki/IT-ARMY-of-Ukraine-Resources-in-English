@@ -38,3 +38,12 @@
 12. https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA 
 13. https://www.youtube.com/c/ZimaLive 
 14. https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A 
+
+## Rules of Engagement
+
+1. VPN or risk arrest*.
+2. HTML DDOS (0 experience): https://norussian.tk/
+3. The Russians are closely following the Telegram channels. Post carefully.
+4. Task Monday - Skilled are to attack the sites of RU Bank.
+
+* most probably it refers to Russians living in Russia.
