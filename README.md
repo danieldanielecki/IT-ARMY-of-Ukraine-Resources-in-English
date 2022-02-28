@@ -59,6 +59,6 @@
 1. VPN or risk arrest*.
 2. HTML DDOS (0 experience): https://norussian.tk/
 3. The Russians are closely following the Telegram channels. Post carefully.
-4. Skilled are to attack the sites of RU Banks (see list below).
+4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)).
 
 *most probably it refers to Russians living in Russia.
