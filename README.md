@@ -54,6 +54,21 @@
 | 9.  | Sovcombank            |   1 576 708  | https://sovcombank.ru/      |
 | 10. | Raiffeisenbank        |   1 432 353  | https://www.raiffeisen.ru/  |
 
+## Major Russian Weapons Manufacturers and Suppliers
+
+1. https://www.rhc.aero/
+2. https://www.uacrussia.ru/ru/
+3. http://www.almaz-antey.ru/
+4. https://www.uecrus.com/rus/
+5. http://www.uralvagonzavod.ru/
+6. https://azgaz.ru/
+7. https://kalashnikovgroup.ru/
+8. http://www.ktrv.ru/
+9. http://www.salut.ru/
+10. https://www.sevmash.ru/
+11. http://www.nordsy.spb.ru/
+12. http://admship.ru/
+
 ## Suggestion
 Exploit web vulnerabilities, escalate to internal systems, collect intelligence and sabotage them. Share your experience and findings.
 
@@ -62,6 +77,6 @@ Exploit web vulnerabilities, escalate to internal systems, collect intelligence 
 1. VPN or risk arrest*.
 2. HTML DDOS (0 experience): https://norussian.tk/
 3. The Russians are closely following the Telegram channels. Post carefully.
-4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)).
+4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)). Alternatively, the weapons manufacturers and suppliers, [see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#major-russian-weapons-manufacturers-and-suppliers).
 
 *most probably it refers to Russians living in Russia.
