@@ -82,6 +82,10 @@ Exploit web vulnerabilities, escalate to internal systems, collect intelligence 
 
 https://github.com/sharsi1/russkiwlst
 
+## Google Sheet (link might be deactivated, as some other documents have been removed from Google Cloud) with a statuses of web pages up/down
+
+https://docs.google.com/spreadsheets/d/1CpIXntRLQ_ULJMqBQmgW7mShzOhd95nCaL2BhNRnA0o/edit#gid=0
+
 ## Rules of Engagement
 
 1. VPN or risk arrest*.
