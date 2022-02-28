@@ -14,8 +14,18 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 ## Distributed Denial of Service Attack (DDoS Attack) Instruction
 
 1. Download the Tor Browser: https://www.torproject.org/download/
-2. Go to the websites: https://russianwarshipgofuckyourself.club/ and https://norussian.tk/
+2. Go to the websites: https://russianwarshipgofuckyourself.club/ and https://norussian.tk/ (stopped working?) and https://ddosrussia.netlify.app
 3. See the targets falling: http://85.159.2.121:3001/status
+
+### Best DDoS Attack Script Python3, Cyber Attack With 40 Methods
+
+Sophisticated DDoS tool https://github.com/MHProDev/MHDDoS.
+
+Note: https://github.com/epsylon/ufonet looks promising, too.
+
+### Docker Bombardier
+
+https://hub.docker.com/r/alpine/bombardier, with in depth instructions https://github.com/almerico/bombardier how to use it.
 
 ## YouTube Channels Shutdown (Flagging) Instruction
 
@@ -74,6 +84,33 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 11. http://www.nordsy.spb.ru/
 12. http://admship.ru/
 
+## P2P crypto exchange connected to Sberbank, VTB and others Russian Banks
+
+1. https://cleanbtc.ru/
+2. https://bonkypay.com/
+3. https://changer.club/
+4. https://superchange.net/
+5. https://mine.exchange/
+6. https://platov.co/
+7. https://ww-pay.net/
+8. https://delets.cash/
+9. https://betatransfer.org/
+10. https://ramon.money/
+11. https://coinpaymaster.com/
+12. https://bitokk.biz/
+13. https://www.netex24.net/
+14. https://cashbank.pro/
+15. https://flashobmen.com/
+16. https://abcobmen.com/
+17. https://ychanger.net/
+18. https://multichange.net/
+19. https://24paybank.ne
+20. https://royal.cash/
+21. https://prostocash.com/
+22. https://baksman.org/
+23. https://kupibit.me/
+24. https://abcobmen.com/
+
 ## Suggestion
 
 Exploit web vulnerabilities, escalate to internal systems, collect intelligence and sabotage them. Share your experience and findings.
@@ -86,10 +123,6 @@ https://github.com/sharsi1/russkiwlst
 
 https://docs.google.com/spreadsheets/d/1CpIXntRLQ_ULJMqBQmgW7mShzOhd95nCaL2BhNRnA0o/edit#gid=0
 
-## Docker Bombardier
-
-https://hub.docker.com/r/alpine/bombardier, with in depth instructions https://github.com/almerico/bombardier how to use it.
-
 ## Rules of Engagement
 
 1. VPN or risk arrest*.
@@ -98,3 +131,15 @@ https://hub.docker.com/r/alpine/bombardier, with in depth instructions https://g
 4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)). Alternatively, the weapons manufacturers and suppliers, [see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#major-russian-weapons-manufacturers-and-suppliers).
 
 *most probably it refers to Russians living in Russia.
+
+### Best No Logs VPNs
+
+https://cybernews.com/best-vpn/no-log-vpns/
+
+### Intelligence Tool
+
+https://intelx.io
+
+## General Information to Support Ukraine
+
+https://github.com/AndrewStetsenko/Support-Ukraine
