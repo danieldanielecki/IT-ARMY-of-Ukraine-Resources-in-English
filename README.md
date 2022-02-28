@@ -88,7 +88,7 @@ https://docs.google.com/spreadsheets/d/1CpIXntRLQ_ULJMqBQmgW7mShzOhd95nCaL2BhNRn
 
 ## Docker Bombardier
 
-https://hub.docker.com/r/alpine/bombardier
+https://hub.docker.com/r/alpine/bombardier, with in depth instructions https://github.com/almerico/bombardier how to use it
 
 ## Rules of Engagement
 
