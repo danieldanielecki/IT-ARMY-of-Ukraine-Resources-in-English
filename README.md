@@ -80,7 +80,7 @@ Exploit web vulnerabilities, escalate to internal systems, collect intelligence 
 ## Rules of Engagement
 
 1. VPN or risk arrest*.
-2. HTML DDOS (0 experience): https://norussian.tk/
+2. HTML DDOS (0 experience): https://norussian.tk/, **new:** https://ddosrussia.netlify.app
 3. The Russians are closely following the Telegram channels. Post carefully.
 4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)). Alternatively, the weapons manufacturers and suppliers, [see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#major-russian-weapons-manufacturers-and-suppliers).
 
