@@ -17,7 +17,7 @@
 1. Turn on your laptop or desktop computer. 
 2. Turn on VPN as most channels are not available in Ukraine.  
 3. Sign in to your YouTube account.  
-4. Open the desired channel (see list below). 
+4. Open the desired channel (see [the list below](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#list-of-channels-to-flag)). 
 5. Go to the About tab.  
 6. Find the flag image and click on it.  
 7. Select the appropriate violation description from the drop-down menu.
