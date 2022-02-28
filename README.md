@@ -46,4 +46,4 @@
 3. The Russians are closely following the Telegram channels. Post carefully.
 4. Task Monday - Skilled are to attack the sites of RU Bank.
 
-* most probably it refers to Russians living in Russia.
+*most probably it refers to Russians living in Russia.
