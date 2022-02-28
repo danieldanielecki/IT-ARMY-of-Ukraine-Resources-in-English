@@ -1,5 +1,10 @@
 # IT ARMY of Ukraine Resources in English
 
+## Description
+
+That's a general list of findings, which are "flying" around in Telegram channels, in one place. Don't hesitate to contribute to that repository, including various of files, or fork for backup reasons. It's supposed to collect all information in one place, because as of now it's a bit hectic for "normal" English-speaking contributors.
+Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/issues) or create a [Pull Request (PR)](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/pulls) if you'd like to contribute.
+
 ## Telegram Channels
 
 - "Official": https://t.me/itarmyofukraine2022 (often in Ukrainian)
