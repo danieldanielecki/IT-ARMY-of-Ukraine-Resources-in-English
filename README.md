@@ -75,7 +75,12 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 12. http://admship.ru/
 
 ## Suggestion
+
 Exploit web vulnerabilities, escalate to internal systems, collect intelligence and sabotage them. Share your experience and findings.
+
+## Dictionary of most common Russian passwords
+
+https://github.com/sharsi1/russkiwlst
 
 ## Rules of Engagement
 
