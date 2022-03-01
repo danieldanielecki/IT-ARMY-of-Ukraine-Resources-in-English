@@ -159,4 +159,4 @@ https://intelx.io
 
 ## General Information to Support Ukraine
 
-https://github.com/AndrewStetsenko/Support-Ukraine
+https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine
