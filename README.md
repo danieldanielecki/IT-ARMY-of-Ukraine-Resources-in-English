@@ -37,7 +37,9 @@ https://hub.docker.com/r/alpine/bombardier, with in depth instructions https://g
 6. Find the flag image and click on it.  
 7. Select the appropriate violation description from the drop-down menu.
 
-### List of channels to flag:
+(TikTok shouldn't be too much more difficult to figure out)
+
+### YouTube channels to flag
 
 1. https://www.youtube.com/channel/UCX9-cJy8dZWDI8hCnmahuLA  
 2. https://www.youtube.com/c/Russia24TV  
@@ -53,6 +55,17 @@ https://hub.docker.com/r/alpine/bombardier, with in depth instructions https://g
 12. https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA 
 13. https://www.youtube.com/c/ZimaLive 
 14. https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A
+
+### TikTok channels to flag
+
+1. https://vm.tiktok.com/ZMLSwY2uk/
+2. https://vm.tiktok.com/ZMLST55PE/
+3. https://vm.tiktok.com/ZMLSTBR9T/
+4. https://vm.tiktok.com/ZMLST9MSy/
+5. https://vm.tiktok.com/ZMLSTTSwG/
+6. https://vm.tiktok.com/ZMLSTwtdQ/
+7. https://vm.tiktok.com/ZMLSwSCLc/
+
 
 ## Largest Russian Banks
 
