@@ -1,4 +1,8 @@
-# Instruction
+# Description
+
+DDoS script bypassing Cloudflare DDoS protection.
+
+## Instruction
 
 1. Install [Node.js](https://nodejs.org/).
 2. `npm i cloudscraper`
