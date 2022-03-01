@@ -136,6 +136,10 @@ https://github.com/sharsi1/russkiwlst
 
 https://docs.google.com/spreadsheets/d/1CpIXntRLQ_ULJMqBQmgW7mShzOhd95nCaL2BhNRnA0o/edit#gid=0
 
+## Temporary Email Addresses
+
+https://temp-mail.org
+
 ## Rules of Engagement
 
 1. VPN or risk arrest*.
