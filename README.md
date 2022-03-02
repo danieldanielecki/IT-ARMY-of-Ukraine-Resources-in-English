@@ -17,11 +17,12 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 2. Go to the websites: https://russianwarshipgofuckyourself.club/ and https://norussian.tk/ (stopped working?) and https://ddosrussia.netlify.app
 3. See the targets falling: http://85.159.2.121:3001/status
 
-### Best DDoS Attack Script Python3, Cyber Attack With 40 Methods
+### Other DDoS tools
 
-Sophisticated DDoS tool https://github.com/MHProDev/MHDDoS.
-
-Note: https://github.com/epsylon/ufonet looks promising, too.
+1. https://github.com/MHProDev/MHDDoS
+2. https://github.com/epsylon/ufonet
+3. https://github.com/erkexzcx/stoppropaganda
+4. https://github.com/palahsu/DDoS-Ripper
 
 ### Docker Bombardier
 
