@@ -159,6 +159,10 @@ https://cybernews.com/best-vpn/no-log-vpns/
 
 https://intelx.io
 
+### Open Source Intelligence (OSINT) of Russian Army
+
+https://www.gfsis.org/maps/russian-military-forces
+
 ### CyberHub Archive
 
 https://github.com/cyberhubarchive/archive
