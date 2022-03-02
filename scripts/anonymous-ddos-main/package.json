@@ -1,0 +1,22 @@
+{
+  "name": "anonymousddos",
+  "version": "1.0.0",
+  "description": "russian warship go fuck yourself",
+  "main": "main.js",
+  "scripts": {
+    "start": "NODE_ENV=production node main.js"
+  },
+  "keywords": [
+    "stopwar"
+  ],
+  "author": "Anonymous DDoS Official Group",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "randomstring": "^1.2.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
