@@ -129,9 +129,17 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 23. https://kupibit.me/
 24. https://abcobmen.com/
 
-## Suggestion
+## The State
 
-Exploit web vulnerabilities, escalate to internal systems, collect intelligence and sabotage them. Share your experience and findings.
+1. Public services - https://www.gosuslugi.ru/ 
+2. Moscow State Services - https://www.mos.ru/uslugi/ 
+3. President of the Russian Federation - http://kremlin.ru/ 
+4. Government of the Russian Federation - http://government.ru/ 
+5. Ministry of Defense - https://mil.ru/ 
+6. Tax - https://www.nalog.gov.ru/ 
+7. Customs - https://customs.gov.ru/ 
+8. Pension Fund - https://pfr.gov.ru/ 
+9. Roskomnadzor - https://rkn.gov.ru/
 
 ## Dictionary of most common Russian passwords
 
