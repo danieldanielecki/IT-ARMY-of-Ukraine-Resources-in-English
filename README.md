@@ -18,16 +18,19 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
    (https://russianwarshipgofuckyourself.club/ and https://norussian.tk/ stopped working)
 3. See the targets falling: http://85.159.2.121:3001/status
 
-### Other DDoS tools
+### Other DDoS Tools
 
 1. https://github.com/MHProDev/MHDDoS
 2. https://github.com/epsylon/ufonet
 3. https://github.com/erkexzcx/stoppropaganda
 4. https://github.com/palahsu/DDoS-Ripper
+5. https://github.com/D3pR4V3d/norussian
+6. https://github.com/almerico/bombardier
 
-### Docker Bombardier
+## Social Media Tools
 
-https://hub.docker.com/r/alpine/bombardier, with in depth instructions https://github.com/almerico/bombardier how to use it.
+1. https://github.com/Argisht44/android
+2. https://github.com/Crevils/InstaReport
 
 ## YouTube Channels Shutdown (Flagging) Instruction
 
