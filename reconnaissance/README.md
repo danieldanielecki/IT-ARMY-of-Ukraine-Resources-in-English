@@ -12,3 +12,18 @@ It's free, with limitations to 12 records per searched category, and certain dat
 ## Knockpy
 
 Discover subdomains using https://github.com/guelfoweb/knock by running `knockpy [domain]`, e.g., `knockpy cbr.ru`
+
+## recon-ng
+
+Discover hosts using `recon-ng`, built in `Kali Linux`, required steps:
+
+1. `Kali Linux`
+2. `recon-ng`
+3. `marketplace install all`
+4. `db insert domains`
+5. `[domain]`, e.g., `cbr.ru`
+6. `modules load recon/domains-hosts/hackertarget`
+7. `options set SOURCE default`
+8. `run`
+
+Based on https://medium.com/@bibinrajbs/using-recon-ng-in-kali-2020-cc76aa3a4a6d
