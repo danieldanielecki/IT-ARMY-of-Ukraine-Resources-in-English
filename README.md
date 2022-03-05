@@ -52,14 +52,13 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 4. https://www.youtube.com/user/rianovosti  
 5. https://www.youtube.com/channel/UC8Nl7TQLC6eX8MTRCuAw3SA 
 6. https://www.youtube.com/channel/UCGRcod_jR4sC9XUMLCv4GJQ 
-7. https://www.youtube.com/channel/UCSqO8lV-ric7ow5G5q9roWw 
-8. https://www.youtube.com/channel/UCRHhScZmH-SfBin8tbTixPA 
-9. https://www.youtube.com/channel/UC3rZ3DKoeiccjl-e-lams_g 
-10. https://www.youtube.com/channel/UCJvDYmmZDbeDy5N_aBxXjpA 
-11. https://www.youtube.com/channel/UCMTaJV_Gyp1YOWJwSNa0wRw 
-12. https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA 
-13. https://www.youtube.com/c/ZimaLive 
-14. https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A
+7. https://www.youtube.com/channel/UCRHhScZmH-SfBin8tbTixPA 
+8. https://www.youtube.com/channel/UC3rZ3DKoeiccjl-e-lams_g 
+9. https://www.youtube.com/channel/UCJvDYmmZDbeDy5N_aBxXjpA 
+10. https://www.youtube.com/channel/UCMTaJV_Gyp1YOWJwSNa0wRw 
+11. https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA 
+12. https://www.youtube.com/c/ZimaLive 
+13. https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A
 
 ### TikTok channels to flag
 
