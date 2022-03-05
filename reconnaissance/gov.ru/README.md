@@ -1008,3 +1008,7 @@ INSERT INTO `gov.ru` (`site`, `backend`) VALUES
 (`smtp4.gov.ru`, `95.173.128.62`),
 (`smtp02.gov.ru`, `95.173.128.59`)
 ```
+
+# Credits
+
+https://pastebin.com/LgJkLazF
