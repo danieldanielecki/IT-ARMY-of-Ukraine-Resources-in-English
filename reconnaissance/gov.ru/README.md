@@ -1,3 +1,7 @@
+# Database of the Russian Government website
+
+Source: https://pastebin.com/LgJkLazF
+
 ```
 ---
 -- Host: 46.61.230.118 --
@@ -1008,7 +1012,3 @@ INSERT INTO `gov.ru` (`site`, `backend`) VALUES
 (`smtp4.gov.ru`, `95.173.128.62`),
 (`smtp02.gov.ru`, `95.173.128.59`)
 ```
-
-# Credits
-
-https://pastebin.com/LgJkLazF
