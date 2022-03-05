@@ -26,6 +26,7 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 4. https://github.com/palahsu/DDoS-Ripper
 5. https://github.com/D3pR4V3d/norussian
 6. https://github.com/almerico/bombardier
+7. https://github.com/Arriven/db1000n
 
 ## Social Media Tools
 
