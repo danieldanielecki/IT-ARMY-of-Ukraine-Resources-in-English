@@ -144,25 +144,33 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 
 ## Various Large Companies
 
-1. Gazprom - https://www.gazprom.ru/ 
-2. Lukoil - https://lukoil.ru 
-3. Magnet - https://magnit.ru/ 
-4. Norilsk Nickel - https://www.nornickel.com/ 
-5. Surgetneftegas - https://www.surgutneftegas.ru/ 
-6. Tatneft - https://www.tatneft.ru/ 
-7. Evraz - https://www.evraz.com/ru/ 
-8. NLMK - https://nlmk.com/ 
-9. Sibur Holing - https://www.sibur.ru/ 
-10. Severstal - https://www.severstal.com/ 
-11. Metalloinvest - https://www.metalloinvest.com/ 
-12. NNC - https://nangs.org/ 
-13. Russian Copper Company - https://rmk-group.ru/ru/ 
-14. TMK - https://www.tmk-group.ru/ 
-15. Yandex - https://ya.ru/ 
-16. Polymetal International - https://www.polymetalinternational.com/ru/ 
-17. Uralkali - https://www.uralkali.com/ru/ 
-18. Eurosibenergo - https://www.eurosib.ru/ 
-19. OMK - https://omk.ru/ 
+1. Gazprom - https://www.gazprom.ru/
+2. Lukoil - https://lukoil.ru & https://lukoil.com
+3. Magnet - https://magnit.ru/
+4. Norilsk Nickel - https://www.nornickel.com/
+5. Surgetneftegas - https://www.surgutneftegas.ru/
+6. Tatneft - https://www.tatneft.ru/
+7. Evraz - https://www.evraz.com/ru/
+8. NLMK - https://nlmk.com/
+9. Sibur Holing - https://www.sibur.ru/
+10. Severstal - https://www.severstal.com/
+11. Metalloinvest - https://www.metalloinvest.com/
+12. NNC - https://nangs.org/
+13. Russian Copper Company - https://rmk-group.ru/ru/
+14. TMK - https://www.tmk-group.ru/
+15. Yandex - https://ya.ru/
+16. Polymetal International - https://www.polymetalinternational.com/ru/
+17. Uralkali - https://www.uralkali.com/ru/
+18. Eurosibenergo - https://www.eurosib.ru/
+19. OMK - https://omk.ru/
+20. Transneft - https://transneft.ru/
+21. Tektorg - https://tektorg.ru/
+22. Rosneft - https://rosneft.com/
+23. Uralchem - https://uralchem.com/
+24. EuroChem Group - https://eurochemgroup.com/
+25. Acrion - https://www.acron.ru/
+26. NLMK - https://nlmk.com/
+27. https://b2b.sibur.ru
 
 ## News
 
