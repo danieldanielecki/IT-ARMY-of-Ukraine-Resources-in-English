@@ -247,6 +247,10 @@ https://github.com/cyberhubarchive/archive
 
 https://redirectrussia.org
 
+## Captured Russian Soldiers
+
+https://invaders-rf.com
+
 ## General Information to Support Ukraine
 
 https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine
