@@ -247,6 +247,10 @@ https://github.com/cyberhubarchive/archive
 
 https://redirectrussia.org
 
+## Companies Boycotted Russia
+
+https://www.boycottrussia.info/boycotted
+
 ## Captured Russian Soldiers
 
 https://invaders-rf.com
