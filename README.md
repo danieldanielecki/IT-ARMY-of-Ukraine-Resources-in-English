@@ -164,6 +164,19 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 18. Eurosibenergo - https://www.eurosib.ru/ 
 19. OMK - https://omk.ru/ 
 
+## News
+
+1. https://tass.ru
+2. https://kp.ru
+3. https://lenta.ru
+4. https://russian.rt.com
+5. https://rq.ru
+6. https://tsargrad.tv
+7. https://news-front.info
+8. https://rossaprimavera.ru
+9. https://iz.ru
+10. https://ngs.ru
+
 ## Dictionary of most common Russian passwords
 
 https://github.com/sharsi1/russkiwlst
