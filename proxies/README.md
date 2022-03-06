@@ -1,7 +1,6 @@
 # List of proxies
 
-## For better formatting see https://raw.githubusercontent.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/main/proxies/README.md
-
+```
 1.0.170.50:80
 1.0.170.50:8080
 1.0.205.87:8080
@@ -8786,3 +8785,4 @@
 190.206.191.135:8080
 161.97.85.62:80
 45.175.238.24:999
+```
