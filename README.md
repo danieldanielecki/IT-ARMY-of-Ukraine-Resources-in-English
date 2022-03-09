@@ -1,3 +1,4 @@
+
 # IT ARMY of Ukraine Resources in English
 
 ## Description
@@ -14,9 +15,12 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 ## Distributed Denial of Service Attack (DDoS Attack) Instruction
 
 1. Download the Tor Browser: https://www.torproject.org/download/
-2. Go to the websites: https://warshipgofuckyourself.netlify.app/ or https://ddosrussia.netlify.app 
-   (https://russianwarshipgofuckyourself.club/ and https://norussian.tk/ stopped working)
-3. See the targets falling: http://85.159.2.121:3001/status or https://rustatus.xyz/ (multiple test/probe points)
+2. Go to the websites
+https://warshipgofuckyourself.netlify.app/ 
+https://ddosrussia.netlify.app 
+https://russianwarshipgofuckyourself.club/ 
+https://norussian.tk/ (offline 09.03.2022)
+3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points)
 
 ### Other DDoS Tools
 
@@ -28,6 +32,12 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 6. https://github.com/almerico/bombardier
 7. https://github.com/Arriven/db1000n
 8. https://github.com/breakerspace/weaponizing-censors
+
+## OSINT Tools
+
+ 1. OWASP AMASS - [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
+ 2. ReconFTW - [https://github.com/six2dez/reconftw](https://github.com/six2dez/reconftw)
+ 3. Many other tools - [https://github.com/cipher387](https://github.com/cipher387)
 
 ## Social Media Tools
 
@@ -217,6 +227,7 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 ## Dictionary of most common Russian passwords
 
 https://github.com/sharsi1/russkiwlst
+http://sprunge.us/fogI7Q
 
 ## Google Sheet (link might be deactivated, as some other documents have been removed from Google Cloud) with a statuses of web pages up/down
 
@@ -229,7 +240,7 @@ https://temp-mail.org
 ## Rules of Engagement
 
 1. VPN or risk arrest*.
-2. HTML DDOS (0 experience): https://norussian.tk/, **new:** https://ddosrussia.netlify.app
+2. HTML DDOS (0 experience): https://norussian.tk/ (offline 09.03.2022) **new:** https://ddosrussia.netlify.app
 3. The Russians are closely following the Telegram channels. Post carefully.
 4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)). Alternatively, the weapons manufacturers and suppliers, [see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#major-russian-weapons-manufacturers-and-suppliers).
 
