@@ -27,3 +27,5 @@ Discover hosts using `recon-ng`, built in `Kali Linux`, required steps:
 8. `run`
 
 Based on https://medium.com/@bibinrajbs/using-recon-ng-in-kali-2020-cc76aa3a4a6d
+
+## https://github.com/m0rtem/CloudFail
