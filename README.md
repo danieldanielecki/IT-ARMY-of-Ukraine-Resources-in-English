@@ -256,3 +256,4 @@ https://temp-mail.org
 - Captured Russian Soldiers: https://invaders-rf.com
 - Support Ukraine: https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine
 - Upload an artifact to a list of damages Russia did: https://damaged.in.ua.
+- Live Map of Ukraine: https://liveuamap.com
