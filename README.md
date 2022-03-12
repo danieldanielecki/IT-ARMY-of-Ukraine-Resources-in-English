@@ -11,6 +11,8 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 - "Official": https://t.me/itarmyofukraine2022 (often in Ukrainian)
 - IT ARMY for English community: https://t.me/itarmyukraineenglish22
 - INT. IT ARMY of Ukraine 🇺🇦: https://t.me/itARMYofUkraine2022_INT
+- Anonymous DDoS Official Group: https://t.me/anonymousddos
+- IT ARMY OF UKRAINE(English): https://t.me/ITArMOfUKEnG100
 
 ## Distributed Denial of Service Attack (DDoS Attack) Instruction
 
@@ -19,7 +21,6 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 https://warshipgofuckyourself.netlify.app/ 
 https://ddosrussia.netlify.app 
 https://russianwarshipgofuckyourself.club/ 
-https://norussian.tk/ (offline 09.03.2022)
 3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points)
 
 ### Other DDoS Tools
@@ -239,41 +240,19 @@ https://temp-mail.org
 
 ## Rules of Engagement
 
-1. VPN or risk arrest*.
-2. HTML DDOS (0 experience): https://norussian.tk/ (offline 09.03.2022) **new:** https://ddosrussia.netlify.app
+1. VPN.
+2. HTML DDOS (0 experience): https://warshipgofuckyourself.netlify.app/
 3. The Russians are closely following the Telegram channels. Post carefully.
 4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)). Alternatively, the weapons manufacturers and suppliers, [see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#major-russian-weapons-manufacturers-and-suppliers).
 
-*most probably it refers to Russians living in Russia.
+## General Information
 
-### Best No Logs VPNs
-
-https://cybernews.com/best-vpn/no-log-vpns/
-
-### Intelligence Tool
-
-https://intelx.io
-
-### Open Source Intelligence (OSINT) of Russian Army
-
-https://www.gfsis.org/maps/russian-military-forces
-
-### CyberHub Archive
-
-https://github.com/cyberhubarchive/archive
-
-### Block Russian traffic to your website
-
-https://redirectrussia.org
-
-## Companies Boycotted Russia
-
-https://www.boycottrussia.info/boycotted
-
-## Captured Russian Soldiers
-
-https://invaders-rf.com
-
-## General Information to Support Ukraine
-
-https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine
+- Best No Logs VPNs: https://cybernews.com/best-vpn/no-log-vpns/
+- Intelligence Tool: https://intelx.io
+- Open Source Intelligence (OSINT) of Russian Army: https://www.gfsis.org/maps/russian-military-forces
+- CyberHub Archive: https://github.com/cyberhubarchive/archive
+- Block Russian traffic to your website: https://redirectrussia.org
+- Companies Boycotted Russia: https://www.boycottrussia.info/boycotted
+- Captured Russian Soldiers: https://invaders-rf.com
+- Support Ukraine: https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine
+- Upload an artifact to a list of damages Russia did: https://damaged.in.ua.
