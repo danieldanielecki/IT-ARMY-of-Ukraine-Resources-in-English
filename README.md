@@ -45,6 +45,9 @@ https://russianwarshipgofuckyourself.club/
 1. https://github.com/Argisht44/android
 2. https://github.com/Crevils/InstaReport
 
+### Send text messages from your phones directly to randomly selected Russians.
+-  https://1920.in/
+
 ## YouTube Channels Shutdown (Flagging) Instruction
 
 1. Turn on your laptop or desktop computer. 
@@ -82,7 +85,6 @@ https://russianwarshipgofuckyourself.club/
 5. https://vm.tiktok.com/ZMLSTTSwG/
 6. https://vm.tiktok.com/ZMLSTwtdQ/
 7. https://vm.tiktok.com/ZMLSwSCLc/
-
 
 ## Largest Russian Banks
 
