@@ -256,6 +256,6 @@ https://temp-mail.org
 - Block Russian traffic to your website: https://redirectrussia.org
 - Companies Boycotted Russia: https://www.boycottrussia.info/boycotted
 - Captured Russian Soldiers: https://invaders-rf.com
-- Support Ukraine: https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine
+- Support Ukraine: https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine, or https://war.ukraine.ua/support-ukraine/
 - Upload an artifact to a list of damages Russia did: https://damaged.in.ua.
 - Live Map of Ukraine: https://liveuamap.com
