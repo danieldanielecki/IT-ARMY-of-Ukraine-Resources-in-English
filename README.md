@@ -183,7 +183,7 @@ https://russianwarshipgofuckyourself.club/
 24. EuroChem Group - https://eurochemgroup.com/
 25. Acrion - https://www.acron.ru/
 26. NLMK - https://nlmk.com/
-27. https://b2b.sibur.ru
+27. Sibur Holding - https://b2b.sibur.ru
 
 ## News
 
