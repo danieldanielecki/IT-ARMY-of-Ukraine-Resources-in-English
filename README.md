@@ -236,6 +236,10 @@ http://sprunge.us/fogI7Q
 
 https://docs.google.com/spreadsheets/d/1CpIXntRLQ_ULJMqBQmgW7mShzOhd95nCaL2BhNRnA0o/edit#gid=0
 
+## Russian Email Addresses (Government, Businesses, Services, and Banks)
+
+https://pastebin.com/wcKb1bwv
+
 ## Temporary Email Addresses
 
 https://temp-mail.org
