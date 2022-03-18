@@ -242,7 +242,15 @@ https://pastebin.com/wcKb1bwv
 
 ## Temporary Email Addresses
 
-https://temp-mail.org
+### Sending and Receiving
+https://www.guerrillamail.com/
+> NOTE: As countermeasure against spam, Guerrillamail adds the originating IP on the email header. VPN is recommended.
+
+### Receiving only
+https://temp-mail.org  
+https://mailpoof.com/  
+https://cryptogmail.com/  
+https://10minutemail.com/
 
 ## Rules of Engagement
 
