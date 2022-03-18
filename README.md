@@ -96,7 +96,7 @@ https://russianwarshipgofuckyourself.club/
 | 4.  | Alfa-Bank             |   4 229 025  | https://alfabank.com/       |
 | 5.  | Rosselkhozbank        |   3 539 546  | https://www.rshb.ru/        |
 | 6.  | Credit Bank of Moscow |   2 988 171  | https://mkb.ru/             |
-| 7.  | Otkritie FC Bank      |   2 530 760  |  N/A                        |
+| 7.  | Otkritie FC Bank      |   2 530 760  | https://www.open.ru/        |
 | 8.  | Promsvyazbank         |   2 503 499  | https://www.psbank.ru/      |
 | 9.  | Sovcombank            |   1 576 708  | https://sovcombank.ru/      |
 | 10. | Raiffeisenbank        |   1 432 353  | https://www.raiffeisen.ru/  |
