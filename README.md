@@ -229,7 +229,7 @@ https://russianwarshipgofuckyourself.club/
 
 ## Dictionary of most common Russian passwords
 
-https://github.com/sharsi1/russkiwlst
+https://github.com/sharsi1/russkiwlst  
 http://sprunge.us/fogI7Q
 
 ## Google Sheet (link might be deactivated, as some other documents have been removed from Google Cloud) with a statuses of web pages up/down
