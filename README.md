@@ -234,10 +234,6 @@ http://sprunge.us/fogI7Q
 https://crackstation.net
 > World Largest Password Dictionary: https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
 
-## Google Sheet (link might be deactivated, as some other documents have been removed from Google Cloud) with a statuses of web pages up/down
-
-https://docs.google.com/spreadsheets/d/1CpIXntRLQ_ULJMqBQmgW7mShzOhd95nCaL2BhNRnA0o/edit#gid=0
-
 ## Russian Email Addresses (Government, Businesses, Services, and Banks)
 
 https://pastebin.com/wcKb1bwv
