@@ -254,6 +254,10 @@ https://mailpoof.com/
 https://cryptogmail.com/  
 https://10minutemail.com/
 
+## Yandex Maps Reviewer
+
+https://github.com/jamesdh/kompromat
+
 ## Rules of Engagement
 
 1. VPN.
