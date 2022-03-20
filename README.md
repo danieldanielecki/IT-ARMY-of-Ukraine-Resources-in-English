@@ -17,11 +17,8 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 ## Distributed Denial of Service Attack (DDoS Attack) Instruction
 
 1. Download the Tor Browser: https://www.torproject.org/download/
-2. Go to the websites
-https://warshipgofuckyourself.netlify.app/ 
-https://ddosrussia.netlify.app 
-https://russianwarshipgofuckyourself.club/ 
-3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points)
+2. Go to the websites ... (all websites have been blocked, TODO: add new online website)
+3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points) or https://ddosmonitor.herokuapp.com
 
 ### Other DDoS Tools
 
@@ -260,7 +257,7 @@ https://10minutemail.com/
 ## Rules of Engagement
 
 1. VPN.
-2. HTML DDOS (0 experience): https://warshipgofuckyourself.netlify.app/
+2. HTML DDOS (0 experience): ...(websites blocked, TODO: add new online website)
 3. The Russians are closely following the Telegram channels. Post carefully.
 4. Skilled are to attack the sites of RU Banks ([see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#largest-russian-banks)). Alternatively, the weapons manufacturers and suppliers, [see the list above](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/blob/main/README.md#major-russian-weapons-manufacturers-and-suppliers).
 
