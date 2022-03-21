@@ -236,7 +236,7 @@ https://crackstation.net
 
 ## Russian Email Addresses (Government, Businesses, Services, and Banks)
 
-https://pastebin.com/wcKb1bwv
+https://github.com/NIRVANA101/Russian-GBSB
 
 ## Temporary Email Addresses
 
