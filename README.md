@@ -265,6 +265,7 @@ https://github.com/jamesdh/kompromat
 ## General Information
 
 - Best No Logs VPNs: https://cybernews.com/best-vpn/no-log-vpns/
+- https://hackenvpn.com
 - Intelligence Tool: https://intelx.io
 - Open Source Intelligence (OSINT) of Russian Army: https://www.gfsis.org/maps/russian-military-forces
 - CyberHub Archive: https://github.com/cyberhubarchive/archive
