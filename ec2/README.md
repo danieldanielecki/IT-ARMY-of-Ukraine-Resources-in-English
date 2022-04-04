@@ -11,7 +11,7 @@ You can do it by executing these commands in your `terminal`:
 ```
 Host ec2
   Hostname ec2-xx.xx.xx.xx.us-east-2.compute.amazonaws.com
-  user ubuntu
+  user kali
   IdentityFile path/to/your/key/filename.pem
 ```
 with connecting by using `ssh ec2` straight away from your `terminal`.
