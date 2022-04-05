@@ -29,3 +29,17 @@ Discover hosts using `recon-ng`, built in `Kali Linux`, required steps:
 Based on https://medium.com/@bibinrajbs/using-recon-ng-in-kali-2020-cc76aa3a4a6d
 
 ## https://github.com/m0rtem/CloudFail
+
+## nmap
+
+### Scan `20` the most popular ports using `nmap`, built in `Kali Linux`, required steps:
+
+1. `Kali Linux`
+2. `nmap --top-ports 20 [IP_ADDRESS]`, e.g., `185.178.208.7`
+
+### Scan all reserved `TCP` ports, required steps:
+
+1. `Kali Linux`
+2. `nmap -v [domain]`, e.g., `cbr.ru`
+
+Based on <https://www.varonis.com/blog/nmap-commands> and <https://nmap.org/book/man-examples.html>
