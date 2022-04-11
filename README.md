@@ -46,6 +46,9 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 ### Send text messages from your phones directly to randomly selected Russians.
 -  https://1920.in/
 
+## General List of Scraped Target Domains
+> https://github.com/NIRVANA101/Russian-GBSB/blob/main/CONTENTS/Domains/domains.txt
+
 ## YouTube Channels Shutdown (Flagging) Instruction
 
 1. Turn on your laptop or desktop computer. 
