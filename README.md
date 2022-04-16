@@ -278,3 +278,4 @@ https://github.com/jamesdh/kompromat
 - Support Ukraine: https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine, or https://war.ukraine.ua/support-ukraine/
 - Upload an artifact to a list of damages Russia did: https://damaged.in.ua.
 - Live Map of Ukraine: https://liveuamap.com
+- Report Russian Army position to Telegram chat: https://t.me/evorog_bot
