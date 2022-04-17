@@ -36,7 +36,8 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 
  1. OWASP AMASS - [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
  2. ReconFTW - [https://github.com/six2dez/reconftw](https://github.com/six2dez/reconftw)
- 3. Many other tools - [https://github.com/cipher387](https://github.com/cipher387)
+ 3. TheHarvester - [https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)
+ 4. Many other tools - [OSINT Tools Collection](https://github.com/cipher387/osint_stuff_tool_collection)
 
 ## Social Media Tools
 
