@@ -1,0 +1,9 @@
+GET /images/rutube_logo_15.png HTTP/1.1
+Host: mil.ru
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: https://mil.ru/
+Cookie: JSESSIONID=69E0E2B42AAEE38CF9E515C420774A92
+

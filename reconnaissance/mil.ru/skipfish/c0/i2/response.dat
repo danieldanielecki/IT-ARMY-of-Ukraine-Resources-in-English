@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 17 Apr 2022 19:27:07 GMT
+Content-Type: text/html
+Content-Length: 198
+Connection: keep-alive
+Location: https://mil.ru/
+X-Server: stat2
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><left>Ministry of Defence of the Russian Federation</left>
+</body>
+</html>

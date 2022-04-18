@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Sun, 17 Apr 2022 19:27:07 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: JSESSIONID=DB6B3E5CEB49D7AA555F20DDFC248B0E; Path=/; SameSite=None; HttpOnly; Secure
+
+[...truncated...]

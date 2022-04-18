@@ -1,0 +1,21 @@
+var issue = [
+  { 'severity': 3, 'type': 40201, 'sid': '0', 'extra': 'https://function.mil.ru/function/search_the_site.htm', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': 'application/xhtml+xml', 'cset': 'UTF-8', 'dir': 'i0' },
+  { 'severity': 3, 'type': 40201, 'sid': '0', 'extra': 'https://vk.com/js/api/openapi.js?169', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': 'application/xhtml+xml', 'cset': 'UTF-8', 'dir': 'i1' },
+  { 'severity': 2, 'type': 30501, 'sid': '0', 'extra': 'https://cnt.sputnik.ru/informer?domain=mil.ru&tz=300', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': 'application/xhtml+xml', 'cset': 'UTF-8', 'dir': 'i2' },
+  { 'severity': 1, 'type': 20102, 'sid': '0', 'extra': 'Too many previous fetch failures', 'fetched': false, 'error': 'Limits exceeded', 'dir': 'i3' },
+  { 'severity': 1, 'type': 20101, 'sid': '0', 'extra': 'during 404 response checks', 'fetched': false, 'error': 'Connection error', 'dir': 'i4' },
+  { 'severity': 0, 'type': 10801, 'sid': '0', 'extra': 'application/binary', 'fetched': true, 'code': 200, 'len': 48052, 'decl_mime': 'text/html', 'sniff_mime': 'application/binary', 'cset': 'utf-8', 'dir': 'i5' },
+  { 'severity': 0, 'type': 10205, 'sid': '0', 'extra': '', 'fetched': true, 'code': 200, 'len': 48052, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'dir': 'i6' },
+  { 'severity': 0, 'type': 10205, 'sid': '0', 'extra': '', 'fetched': true, 'code': 404, 'len': 48052, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'dir': 'i7' },
+  { 'severity': 0, 'type': 10205, 'sid': '0', 'extra': '', 'fetched': true, 'code': 429, 'len': 198, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'dir': 'i8' },
+  { 'severity': 0, 'type': 10205, 'sid': '0', 'extra': '', 'fetched': true, 'code': 200, 'len': 0, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i9' },
+  { 'severity': 0, 'type': 10204, 'sid': '0', 'extra': 'X-Server', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i10' },
+  { 'severity': 0, 'type': 10204, 'sid': '0', 'extra': 'X-Cache', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i11' },
+  { 'severity': 0, 'type': 10204, 'sid': '0', 'extra': 'X-Time', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i12' },
+  { 'severity': 0, 'type': 10204, 'sid': '0', 'extra': 'X-Content-Type-Options', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i13' },
+  { 'severity': 0, 'type': 10204, 'sid': '0', 'extra': 'X-XSS-Protection', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i14' },
+  { 'severity': 0, 'type': 10204, 'sid': '0', 'extra': 'X-Frame-Options', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i15' },
+  { 'severity': 0, 'type': 10202, 'sid': '0', 'extra': 'Ministry of Defence of the Russian Federation', 'fetched': true, 'code': 200, 'len': 400000, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i16' },
+  { 'severity': 0, 'type': 10201, 'sid': '0', 'extra': 'JSESSIONID', 'fetched': true, 'code': 200, 'len': 18, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'UTF-8', 'dir': 'i17' },
+  { 'severity': 0, 'type': 10101, 'sid': '0', 'extra': '/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2', 'fetched': false, 'error': 'Content not fetched', 'dir': 'i18' }
+];

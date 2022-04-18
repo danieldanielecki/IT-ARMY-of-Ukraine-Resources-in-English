@@ -1,0 +1,1566 @@
+HTTP/1.1 200 OK
+Date: Sun, 17 Apr 2022 19:27:07 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: JSESSIONID=DB6B3E5CEB49D7AA555F20DDFC248B0E; Path=/; SameSite=None; HttpOnly; Secure
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Ministry of Defence of the Russian Federation
+X-Server: stat1
+Cache-Control: public, must-revalidate, proxy-revalidate
+Pragma: no-cache
+X-Cache: HIT
+X-Time: 0.000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; connect-src 'self' mil.ru *.mil.ru *.tildacdn.com *.gcdn.co *.mail.ru top100.ru stat.sputnik.ru mc.yandex.ru www.google-analytics.com *.anycaster.tv *.vintera.tv *.cdnvideo.ru; script-src 'self' 'unsafe-inline' 'unsafe-eval' vk.com yastatic.net megatimer.ru stat.sputnik.ru *.stat.sputnik.ru tildacdn.com *.tildacdn.com *.vintera.tv *.cdnvideo.ru *.youtu.be *.youtube.com mil.ru *.mil.ru *.rambler.ru *.yandex.ru *.mail.ru *.google-analytics.com *.google.com top100.ru *.top100.ru *.tvzvezda.ru tvzvezda.ru *.mail.ru tns-counter.ru *.tns-counter.ru *.googletagmanager.com mil.ru *.mil.ru *.xn--90anlfbebar6i.xn--p1ai; object-src 'self' *.mil.ru *.vintera.tv *.cdnvideo.ru *.youtube.com; style-src 'self' 'unsafe-inline' megatimer.ru mil.ru *.mil.ru *.googleapis.com; img-src 'self' mil.ru *.mil.ru vk.com stat.sputnik.ru cnt.sputnik.ru doubleclick.net *.doubleclick.net tns-counter.ru *.tns-counter.ru *.google.com google.com data: counter.yadro.ru *.yandex.net *.yandex.ru *.youtube.com *.vintera.tv *.cdnvideo.ru *.youtu.be *.youtube.com *.mail.ru *.google-analytics.com *.rambler.ru ; media-src 'self' mil.ru *.mil.ru *.youtube.com *.vintera.tv *.cdnvideo.ru *.youtu.be *.youtube.com *.xn--90anlfbebar6i.xn--p1ai; frame-src 'self' mil.ru *.mil.ru rutube.ru anycaster.tv *.anycaster.tv livezvezda.mediacdn.ru *.livezvezda.mediacdn.ru newapp.bonus-tv.ru *.newapp.bonus-tv.ru vk.com *.vk.com ok.ru *.ok.ru tvzvezda.ru *.tvzvezda.ru yandex.ru *.yandex.ru *.yandex.net *.youtube.com youtube.com *.youtu.be youtu.be *.google.com *.vintera.tv *.cdnvideo.ru; font-src 'self' fonts.gstatic.com tildacdn.com *.tildacdn.com mil.ru *.mil.ru *.vintera.tv *.cdnvideo.ru *.mil.ru *.youtube.com *.youtube.com *.youtu.be *.google.com; frame-ancestors 'self' http://mil.ru http://*.mil.ru https://vuz.mil.ru https://www.mil.ru https://*.mil.ru https://anycaster.tv https://livezvezda.mediacdn.ru https://youtube.com https://*.youtube.com https://youtu.be https://*.youtu.be; base-uri 'self'; form-action 'self' mil.ru *.mil.ru; upgrade-insecure-requests;
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: same-origin
+X-Frame-Options: sameorigin
+Permissions-Policy: accelerometer=(),autoplay=(),camera=(),encrypted-media=(),fullscreen=*,geolocation=*,gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),sync-xhr=*,usb=(),xr-spatial-tracking=()
+Strict-Transport-Security: max-age=300
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Главная : Министерство обороны Российской Федерации</title>
+    <base href="https://mil.ru:443/">
+  <meta name="description" content="Главная">
+  <meta name="keywords" content="Министерство обороны, Минобороны, Вооруженные Силы, Министр обороны РФ, Генеральный штаб, Вооружение Минобороны, Новости министерства обороны, 9 мая победа День Победы 70-летие Победы Победа в Великой Отечественной войне ВОВ 1941 1945">
+  <meta name="yandex-verification" content="2e795f70c6b229db" >
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml" >
+  <link href="https://mil.ru:443/styles/military/styles_ru.min.css?20210624" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="scripts/military/minified/ru.min.js"></script><script type="text/javascript">
+try {
+		function no_pda_getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+            "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+		
+		window.mobilecheck = function() {
+            var check = false;
+            (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
+            return check;
+        }
+
+        function is_no_redirect_host() {
+            var no_redirect_regex = new RegExp('^stat\.');
+            return no_redirect_regex.test(window.location.hostname);
+        }
+		
+		if ( typeof(window.document.already_redirect_43j5h) == 'undefined' && ! no_pda_getCookie('force_no_pda') && ! is_no_redirect_host() && window.mobilecheck() ) {
+			window.location.href="https://pda.mil.ru";
+		}
+		
+	} catch (e) {
+		
+	}
+</script><style type="text/css">#content > div.topblock-left > div.photolist > a > span.photolist-title {padding: 6px 5px 8px;}</style><script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/jquery.metadata.min.js"></script>
+  <script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/mbMenu_menusettings.min.js"></script>
+      <script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/jquery.hoverIntent.min.js"></script>
+  <script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/swfobjectsmall.min.js"></script>
+  <script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/object.min.js"></script>
+  <script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/cal2.min.js"></script>
+  <script type="text/javascript" src="https://mil.ru:443/scripts/military/minified/scripts.min.js"></script>
+  
+  <!-- social  networks zone-->
+  <script>
+	jQuery(function(){
+		jQuery("img[src$='sn/fb.png']").closest('a').remove();
+		jQuery("img[src$='sn/tw.png']").closest('a').remove();
+	});
+  </script>
+</head>
+
+<body>
+<div class="area0">
+
+<div class="area1" style="padding-bottom:230px;">
+  <div id="footer">
+    <table cellpadding="0" cellspacing="0" width="100%" >
+  <tr>
+  <td width="220" valign=top>
+  </td>
+  <td width="110" valign=top>
+  <div class="bottombanner"><img alt="Счетчик Спутника" height="31" src="https://cnt.sputnik.ru/informer?domain=mil.ru&amp;tz=300" title="Просмотры, визиты, посетители за текущие сутки" width="88" /></div></td>
+  <td width="480" valign=top>
+  <div class="bottombanner">
+  <a href="http://www.3hospital.ru" target="_self">
+        <img alt="3 ЦВКГ им. А.А.Вишневского" src="images/3cvkg_vishnevsky.jpg" width="88" height="31"></a>
+  <a href="http://redstar.ru/" target="_self">
+        <img alt="Красная звезда" src="images/redstar-baner.jpg" width="88" height="31"></a>
+  <a href="http://www.tank-biathlon.com/" target="_blank">
+        <img alt="МФТБ" src="images/mftb-logo-rus-2.jpg" width="88" height="31"></a>
+  <a href="http://www.cska.ru" target="_self">
+        <img alt="ЦСКА" src="images/banner_cska%281%29.png" width="88" height="31"></a>
+  </div>    
+  <div class="wrapper"></div></td>
+  <td width="110" valign=top>
+  </td>
+  <td width="110" valign=top>
+  </td>
+  <td width="" valign=top>
+  </td>
+  </tr>
+</table><div class="bottom">
+  <a  href="http://function.mil.ru/news_page.htm" >Новости</a>
+<a  href="http://structure.mil.ru/management.htm" >Руководство</a>
+<a  href="http://structure.mil.ru/structure.htm" >Структура</a>
+<a  href="http://recrut.mil.ru/career.htm" >Карьера</a>
+<a  href="http://ens.mil.ru/education.htm" >Образование</a>
+<a  href="http://ens.mil.ru/science.htm" >Наука</a>
+<a  href="http://doc.mil.ru/documents.htm" >Документы</a>
+<a  href="http://encyclopedia.mil.ru/encyclopedia.htm" >Энциклопедия</a>
+<a  href="http://multimedia.mil.ru/multimedia.htm" >Мультимедиа</a>
+<a  href="http://letters.mil.ru/letters/error_report.htm" style="color:#ff6f33;">Сообщение об ошибке на сайте</a>
+</div><span class="ftr_block">
+    <a href="index.htm">Русский</a>  &nbsp;|&nbsp; <a href="http://eng.mil.ru/en/index.htm">English</a>  &nbsp;|&nbsp; <a href="http://fr.mil.ru/fr/index.htm">Français</a>  &nbsp;|&nbsp; <a href="http://es.mil.ru/es/index.htm">Español</a>  &nbsp;|&nbsp; <a href="http://ar.mil.ru/ar/index.htm">العربية</a> </span><span class="ftr_block">
+    <a href="http://special.mil.ru/spec/index.htm">Для слабовидящих</a>  &nbsp;|&nbsp; <a href="http://pda.mil.ru/pda.htm">PDA</a>  &nbsp;|&nbsp; <a href="http://wap.mil.ru/wap/index.htm">WAP</a> </span><!-- Sputnik counter --><script type="text/javascript">
+       (function(d, t, p) {
+           var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+           j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+           var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+       })(document, "script", document.location.protocol);
+    </script><!-- /Sputnik  counter --><!-- Page loaded successfully --><div class="copy">
+      © Все материалы интернет-портала Минобороны России доступны по лицензии <a href="http://creativecommons.org/licenses/by/4.0/deed.ru">Creative Commons Attribution 4.0</a></div>
+  </div>
+  <script type="text/javascript">make_dev_string("https://letters.mil.ru:443/letters/error_report.htm")</script>
+  <div id="area1b">
+    <div id="areatop">
+      <div id="sitetop">
+        <div id="menutop">
+          <a  class="index" href="index.htm">Главная</a>
+<a  class="index" href="http://letters.mil.ru/electronic_reception.htm">Электронная приёмная</a><a class="index" href="https://question.mil.ru" style="background: #ca0000; height: 18px; margin-left: 56px; width: 120px; text-align: center;" target="_blank">Задать вопрос</a>
+<style type="text/css">.notice a.submit {display: none !important;}
+</style></div>
+        <div id="searchtop">
+          <a  href="site_map.htm">Карта сайта</a><script type="text/javascript">
+  function showlang(divId) {
+    var div = document.getElementById(divId);
+    if (div) {
+      div.style.display = (div.style.display == "block") ? "none" : "block";
+    }
+  }
+</script>
+
+  <div class="langblock" style="background:#4b4b4b url('images/military/icons/i202.gif') 8px center no-repeat; position:relative">
+  <a class="mainlang" href="index.htm#ftr" onClick="this.href = 'javascript:void(0)'; showlang('langmenu'); return (false);" style="padding-right:0px; display:inline-block; padding-left:16px; width:70px; outline:0">Русский<img
+      src="images/military/langarrow.gif" width="15" height="15" style="margin:3px 2px;" alt="x"></a>
+  <div id="langmenu" style="width:90px; left:0; top:22px; margin-left:0 !important">
+    <a class="lang" href="index.htm"
+   ><span>Русский</span></a>
+
+<a class="lang" href="http://eng.mil.ru/en/index.htm"
+   ><span>English</span></a>
+
+<a class="lang" href="http://fr.mil.ru/fr/index.htm"
+   ><span>Français</span></a>
+
+<a class="lang" href="http://es.mil.ru/es/index.htm"
+   ><span>Español</span></a>
+
+<a class="lang" href="http://ar.mil.ru/ar/index.htm"
+   ><span>العربية</span></a>
+
+</div>
+</div><script type="text/javascript">
+  function showlang(divId) {
+    var div = document.getElementById(divId);
+    if (div) {
+      div.style.display = (div.style.display == "block") ? "none" : "block";
+    }
+
+
+  }
+</script>
+<div class="verblock" style="margin-left:0">
+
+  <a class="mainver" href="index.htm#ftr" onclick="this.href = 'javascript:void(0)'; showlang('vermenu'); return (false);" style="padding-right:0px">Версии сайта<img
+      src="images/military/langarrow.gif" width="15" height="15" style="margin:3px 6px;" alt="x"></a>
+
+  <div id="vermenu">
+    <a class="ver" href="http://special.mil.ru/spec/index.htm"><span>Для слабовидящих</span></a>
+
+<a class="ver" href="http://pda.mil.ru/pda.htm"><span>PDA</span></a>
+
+<a class="ver" href="http://wap.mil.ru/wap/index.htm"><span>WAP</span></a>
+
+</div>
+</div><span class="soc">
+  <a href="https://function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml">
+        <img alt="RSS" title="RSS" src="images/rss15x15.png"></a>
+  <a href="http://www.twitter.com/mod_russia">
+        <img alt="Twitter" title="Twitter" src="images/twit15x15.png"></a>
+  <a href="https://youtube.com/channel/UCQGqX5Ndpm4snE0NTjyOJnA">
+        <img alt="Youtube" title="Youtube" src="images/yout15x15.png"></a>
+  <a href="https://rutube.ru/channel/24675435/">
+        <img alt="Rutube" title="Rutube" src="images/rutube_logo_15.png"></a>
+  <a href="http://vk.com/mil">
+        <img alt="VKontakte" title="VKontakte" src="images/vk1.png"></a>
+  <a href="https://ok.ru/mil">
+        <img alt="Odnoklassniki" title="Odnoklassniki" src="images/ok.png"></a>
+  <a href="https://t.me/mod_russia">
+        <img alt="Telegram" title="Telegram" src="images/telegram_logo_15x15.png"></a>
+  </span><div class="searchfield">
+            <form enctype="multipart/form-data" method="post" action="https://function.mil.ru/function/search_the_site.htm" onsubmit="if (!this.text.value || this.text.value == this.text.title) {alert('Не указан критерий поиска'); this.text.focus(); return getFalse(event); } else {return true}">
+  <div>
+    <input type="text" class="searchfield" name="text"
+         title="Поиск"
+         value="Поиск"
+         onfocus="sfv(this,'onfocus')" onblur="sfv(this,'onblur')">
+  <input type="image" class="searchbutton" src="images/military/searcharrow.gif" value="Ok">
+  </div>    
+</form></div>
+
+        </div>
+      </div>
+    </div>
+    <div id="arealogo">
+      <a href="http://mil.ru/" id="logo"></a>
+      <div id="titlebig">
+  <a href="index.htm">Министерство обороны Российской Федерации</a>
+  <div class="shorttitle">(Минобороны России)</div>
+</div></div>
+  </div>
+  <div class="myMenuContainer" style="text-align:center">
+  <div class="myMenu">
+      <a  class="rootVoice {menu: 'menu_10320376'}" href="https://structure.mil.ru/management.htm">Руководство</a>
+<a  class="rootVoice {menu: 'menu_10320387'}" href="https://structure.mil.ru/structure/forces/type.htm">Структура</a>
+<a  class="rootVoice {menu: 'menu_10320397'}" href="https://recrut.mil.ru/career/conscription.htm">Карьера</a>
+<a  class="rootVoice {menu: 'menu_10320402'}" href="https://ens.mil.ru/education/news.htm">Образование</a>
+<a  target='_blank'  class="rootVoice {menu: 'menu_10320490'}" href="https://sc.mil.ru/social.htm">Соцобеспечение</a>
+<a  class="rootVoice {menu: 'menu_10320410'}" href="https://doc.mil.ru/documents/quick_search.htm">Документы</a>
+<a  class="rootVoice {menu: 'menu_10320421'}" href="https://encyclopedia.mil.ru/encyclopedia/dictionary/list.htm">Энциклопедия</a>
+<a  class="rootVoice {menu: 'menu_10320413'}" href="https://multimedia.mil.ru/multimedia.htm">Мультимедиа</a>
+<a  class="rootVoice " href="https://structure.mil.ru/contacts.htm">Контакты</a></div>
+</div>
+<div id="menu_10320376" class="menu">
+    <a    href="https://structure.mil.ru/management/leader.htm" >Верховный Главнокомандующий</a>
+<a    href="https://structure.mil.ru/management/minister.htm" >Министр обороны</a>
+<a    href="https://structure.mil.ru/management/deputy.htm" >Заместители министра</a>
+<a    href="https://structure.mil.ru/management/combatant_arms.htm" >Главнокомандующие видами ВС</a>
+<a    href="https://structure.mil.ru/management/types_of_troops.htm" >Командующие родами войск</a>
+<a    href="https://structure.mil.ru/management/college_of_the_russian_defense_ministry.htm" >Коллегия Минобороны России</a>
+<a    href="https://structure.mil.ru/management/ministri_board_rf_rb.htm" >Состав совместной Коллегии Минобороны Республики Беларусь и России</a>
+</div>
+<div id="menu_10320387" class="menu">
+    <a    href="https://structure.mil.ru/structure/forces/type.htm" >Вооруженные Cилы РФ</a>
+<a    href="https://structure.mil.ru/structure/structuremorf.htm" >Структура Минобороны России</a>
+<a    href="https://structure.mil.ru/structure/department.htm" >Подведомственные организации</a>
+<a    href="https://structure.mil.ru/structure/news.htm" ></a>
+</div>
+<div id="menu_10320397" class="menu">
+    <a    href="https://recrut.mil.ru/career/conscription.htm" >Служба по призыву</a>
+<a    href="https://recrut.mil.ru/career/soldiering.htm" >Служба по контракту</a>
+<a    href="https://recrut.mil.ru/career/alternative.htm" >Альтернативная служба</a>
+<a    href="https://recrut.mil.ru/career/civil_service.htm" >Государственная гражданская служба</a>
+<a    href="https://recrut.mil.ru/career/civil.htm" >Работа в ВС РФ на гражданских должностях</a>
+<a    href="https://recrut.mil.ru/career/.htm" >Уклонистам</a>
+<a    href="https://recrut.mil.ru/career/uniform.htm" >Униформа</a>
+<a    href="https://recrut.mil.ru/career/military_commissariats.htm" >Военкоматы</a>
+</div>
+<div id="menu_10320402" class="menu">
+    <a    href="https://ens.mil.ru/education/news.htm" >Новости</a>
+<a    href="https://ens.mil.ru/education/secondary.htm" >Среднее общее</a>
+<a    href="https://ens.mil.ru/education/higher.htm" >Высшее</a>
+<a    href="https://ens.mil.ru/education/postgraduate.htm" >Адъюнктура</a>
+<a    href="https://ens.mil.ru/education/classifieds.htm" >Вакансии</a>
+<a    href="https://ens.mil.ru/education/inter-olimp.htm" >Международная олимпиада курсантов</a>
+<a    href="https://ens.mil.ru/education/competition.htm" >Конкурсы</a>
+<a    href="https://ens.mil.ru/education/thesis.htm" >Диссертации</a>
+<a    href="https://ens.mil.ru/education/documents.htm" >Документы</a>
+<a    href="https://ens.mil.ru/education/media/photo.htm" >Фото/Видео</a>
+<a    href="https://ens.mil.ru/education/civilian.htm" >Обучение в гражданских образовательных организациях</a>
+<a    href="https://ens.mil.ru/education/vuc.htm" >Система военной подготовки студентов</a>
+<a    href="https://ens.mil.ru/education/ege2022.htm" >ЕГЭ-2022</a>
+<a    href="https://ens.mil.ru/education/recruitment.htm" >Планируемая численность набора в довузы</a>
+<a    href="https://ens.mil.ru/education/guide.htm" >Справочник абитуриента</a>
+</div>
+<div id="menu_10320490" class="menu">
+    <a    href="https://sc.mil.ru/social/culture/news.htm" >Культура</a>
+<a    href="https://sc.mil.ru/social/sport/news.htm" >Спорт</a>
+<a    href="https://sc.mil.ru/social/media.htm" >СМИ</a>
+<a    href="https://sc.mil.ru/social/education.htm" >Учеба</a>
+<a    href="https://sc.mil.ru/social/health.htm" >Здоровье</a>
+<a    href="https://sc.mil.ru/social/safety.htm" >Безопасность</a>
+<a    href="https://mil.ru/dgo.htm" >Жилье</a>
+<a    href="https://sc.mil.ru/fea/soc/to_mil.htm" >Денежное довольствие</a>
+<a    href="https://sc.mil.ru/social/social_defense.htm" >Соцзащита</a>
+<a    href="https://sc.mil.ru/social/insurance.htm" >Страхование</a>
+<a    href="https://sc.mil.ru/social/health/sanatoriums/request.htm" >Заявка в санаторий</a>
+<a    href="https://sc.mil.ru/social/itogi.htm" >Итоги социального развития ВС РФ в 2019-2021 гг.</a>
+</div>
+<div id="menu_10320410" class="menu">
+    <a    href="https://doc.mil.ru/documents/quick_search.htm" >Банк документов</a>
+<a    href="https://doc.mil.ru/documents/projects.htm" >Проекты документов</a>
+</div>
+<div id="menu_10320421" class="menu">
+    <a    href="https://encyclopedia.mil.ru/warriors_calendar.htm" >Календарь воина</a>
+<a    href="https://encyclopedia.mil.ru/encyclopedia/dictionary.htm" >Словари</a>
+<a    href="https://encyclopedia.mil.ru/encyclopedia/history.htm" >История войн</a>
+<a    href="https://encyclopedia.mil.ru/encyclopedia/history_department.htm" >История ведомства</a>
+<a    href="https://encyclopedia.mil.ru/encyclopedia/books.htm" >Книги</a>
+</div>
+<div id="menu_10320413" class="menu">
+    <a    href="https://multimedia.mil.ru/multimedia/photo.htm" >Фото</a>
+<a    href="https://multimedia.mil.ru/multimedia/video.htm" >Видео</a>
+<a    href="https://multimedia.mil.ru/multimedia/virtual_tours.htm" >Виртуальные экскурсии</a>
+<a    href="https://multimedia.mil.ru/multimedia/infographics/armyweek.htm" >Инфографика</a>
+<a    href="https://multimedia.mil.ru/multimedia/3D.htm" >3D модели</a>
+<a    href="https://multimedia.mil.ru/multimedia/frontline_redstar.htm" >Красная звезда: от Бреста до Берлина</a>
+<a    href="https://mil.ru/projects.htm" >Специальные проекты</a>
+<a    href="https://multimedia.mil.ru/multimedia/calendar2022.htm" >Календари МО РФ на 2022 год</a>
+</div><div id="content">
+    <div class="topblock-left">
+	<div class="toptitle">
+		<div>Событие недели</div>
+	</div>
+	<div class="photolist">
+		<a class="photolist-item" href='https://pravdavarhive.mil.ru/' target="_blank">
+					<img class="photolist-image"  src="images/military/achivepv208.jpg" alt="">
+					<span class="photolist-title">Документы из фондов ЦАМО РФ</span>
+				</a>
+			<a class="photolist-item" href='http://z.mil.ru/spec_mil_oper.htm' target="_self">
+					<img class="photolist-image"  src="images/military/special_operation_208.jpg" alt="">
+					<span class="photolist-title">Специальная военная операция</span>
+				</a>
+			</div>
+</div><script>
+	/**
+ * Copyright (c) 2009 Anders Ekdahl (http://coffeescripter.com/)
+ * Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
+ * and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
+ *
+ * Version: 1.2.3
+ *
+ * Demo and documentation: http://coffeescripter.com/code/ad-gallery/
+ */
+(function(jQuery) {
+    jQuery.fn.adGallery = function(options) {
+        var defaults = { loader_image: 'images/military/gallery/loader.gif',
+            start_at_index: 0,
+            description_wrapper: false,
+            thumb_opacity: 0.7,
+            animate_first_image: false,
+            animation_speed: 200,
+            width: false,
+            height: false,
+            display_next_and_prev: true,
+            display_back_and_forward: true,
+            scroll_jump: 0, // If 0, it jumps the width of the container
+            slideshow: {
+                enable: true,
+                autostart: true,
+                speed: 7000,
+                start_label: 'Start',
+                stop_label: 'Stop',
+                stop_on_scroll: true,
+                countdown_prefix: '(',
+                countdown_sufix: ')',
+                onStart: true,
+                onStop: true
+            },
+            effect: 'fade', // or 'slide-vert', 'fade', or 'resize', 'none'
+            enable_keyboard_move: true,
+            cycle: true,
+            callbacks: {
+                init: false,
+                afterImageVisible: false,
+                beforeImageVisible: false
+            }
+        };
+        var settings = jQuery.extend(false, defaults, options);
+        if (options && options.slideshow) {
+            settings.slideshow = jQuery.extend(false, defaults.slideshow, options.slideshow);
+        }
+        ;
+        if (!settings.slideshow.enable) {
+            settings.slideshow.autostart = false;
+        }
+        ;
+        var galleries = [];
+        jQuery(this).each(function() {
+            var gallery = new AdGallery(this, settings);
+            galleries[galleries.length] = gallery;
+        });
+        // Sorry, breaking the jQuery chain because the gallery instances
+        // are returned so you can fiddle with them
+        return galleries;
+    };
+
+    function VerticalSlideAnimation(img_container, direction, desc) {
+        var current_top = parseInt(img_container.css('top'), 10);
+        if (direction == 'left') {
+            var old_image_top = '-' + this.image_wrapper_height + 'px';
+            img_container.css('top', this.image_wrapper_height + 'px');
+        } else {
+            var old_image_top = this.image_wrapper_height + 'px';
+            img_container.css('top', '-' + this.image_wrapper_height + 'px');
+        }
+        ;
+        if (desc) {
+            desc.css('bottom', '-' + desc[0].offsetHeight + 'px');
+            desc.animate({bottom: 0}, this.settings.animation_speed * 2);
+        }
+        ;
+        if (this.current_description) {
+            this.current_description.animate({bottom: '-' + this.current_description[0].offsetHeight + 'px'}, this.settings.animation_speed * 2);
+        }
+        ;
+        return {old_image: {top: old_image_top},
+            new_image: {top: current_top}};
+    }
+
+    ;
+
+    function HorizontalSlideAnimation(img_container, direction, desc) {
+        var current_left = parseInt(img_container.css('left'), 10);
+        if (direction == 'left') {
+            var old_image_left = '-' + this.image_wrapper_width + 'px';
+            img_container.css('left', this.image_wrapper_width + 'px');
+        } else {
+            var old_image_left = this.image_wrapper_width + 'px';
+            img_container.css('left', '-' + this.image_wrapper_width + 'px');
+        }
+        ;
+        if (desc) {
+            desc.css('bottom', '-' + desc[0].offsetHeight + 'px');
+            desc.animate({bottom: 0}, this.settings.animation_speed * 2);
+        }
+        ;
+        if (this.current_description) {
+            this.current_description.animate({bottom: '-' + this.current_description[0].offsetHeight + 'px'}, this.settings.animation_speed * 2);
+        }
+        ;
+        return {old_image: {left: old_image_left},
+            new_image: {left: current_left}};
+    }
+
+    ;
+
+    function ResizeAnimation(img_container, direction, desc) {
+        var image_width = img_container.width();
+        var image_height = img_container.height();
+        var current_left = parseInt(img_container.css('left'), 10);
+        var current_top = parseInt(img_container.css('top'), 10);
+        img_container.css({width: 0, height: 0, top: this.image_wrapper_height / 2, left: this.image_wrapper_width / 2});
+        return {old_image: {width: 0,
+            height: 0,
+            top: this.image_wrapper_height / 2,
+            left: this.image_wrapper_width / 2},
+            new_image: {width: image_width,
+                height: image_height,
+                top: current_top,
+                left: current_left}};
+    }
+
+    ;
+
+    function FadeAnimation(img_container, direction, desc) {
+        img_container.css('opacity', 0);
+        return {old_image: {opacity: 0},
+            new_image: {opacity: 1}};
+    }
+
+    ;
+
+    // Sort of a hack, will clean this up... eventually
+    function NoneAnimation(img_container, direction, desc) {
+        img_container.css('opacity', 0);
+        return {old_image: {opacity: 0},
+            new_image: {opacity: 1},
+            speed: 0};
+    }
+
+    ;
+
+    function AdGallery(wrapper, settings) {
+        this.init(wrapper, settings);
+    }
+
+    ;
+    AdGallery.prototype = {
+        // Elements
+        wrapper: false,
+        image_wrapper: false,
+        gallery_info: false,
+        nav: false,
+        loader: false,
+        preloads: false,
+        thumbs_wrapper: false,
+        scroll_back: false,
+        scroll_forward: false,
+        next_link: false,
+        prev_link: false,
+
+        slideshow: false,
+        image_wrapper_width: 0,
+        image_wrapper_height: 0,
+        current_index: 0,
+        current_image: false,
+        current_description: false,
+        nav_display_width: 0,
+        settings: false,
+        images: false,
+        in_transition: false,
+        animations: false,
+        init: function(wrapper, settings) {
+            var context = this;
+            this.wrapper = jQuery(wrapper);
+            this.settings = settings;
+            this.setupElements();
+            this.setupAnimations();
+            if (this.settings.width) {
+                this.image_wrapper_width = this.settings.width;
+                this.image_wrapper.width(this.settings.width);
+                this.wrapper.width(this.settings.width);
+            } else {
+                this.image_wrapper_width = this.image_wrapper.width();
+            }
+            ;
+            if (this.settings.height) {
+                this.image_wrapper_height = this.settings.height;
+                this.image_wrapper.height(this.settings.height);
+            } else {
+                this.image_wrapper_height = this.image_wrapper.height();
+            }
+            ;
+            this.nav_display_width = this.nav.width();
+            this.current_index = 0;
+            this.current_image = false;
+            this.current_description = false;
+            this.in_transition = false;
+            this.findImages();
+            if (this.settings.display_next_and_prev) {
+                this.initNextAndPrev();
+            }
+            ;
+            // The slideshow needs a callback to trigger the next image to be shown
+            // but we don't want to give it access to the whole gallery instance
+            var nextimage_callback = function(callback) {
+                return context.nextImage(callback);
+            };
+            this.slideshow = new AdGallerySlideshow(nextimage_callback, this.settings.slideshow);
+            this.controls.append(this.slideshow.create());
+            if (this.settings.slideshow.enable) {
+                this.slideshow.enable();
+            } else {
+                this.slideshow.disable();
+            }
+            ;
+            if (this.settings.display_back_and_forward) {
+                this.initBackAndForward();
+            }
+            ;
+            if (this.settings.enable_keyboard_move) {
+                this.initKeyEvents();
+            }
+            ;
+            var start_at = this.settings.start_at_index;
+            if (window.location.hash && window.location.hash.indexOf('#ad-image') === 0) {
+                start_at = window.location.hash.replace(/[^0-9]+/g, '');
+                // Check if it's a number
+                if ((start_at * 1) != start_at) {
+                    start_at = this.settings.start_at_index;
+                }
+                ;
+            }
+            ;
+
+            this.loading(true);
+            this.showImage(start_at,
+                    function() {
+                        // We don't want to start the slideshow before the image has been
+                        // displayed
+                        if (context.settings.slideshow.autostart) {
+                            context.preloadImage(start_at + 1);
+                            context.slideshow.start();
+                        }
+                        ;
+                    }
+                    );
+            this.fireCallback(this.settings.callbacks.init);
+        },
+        setupAnimations: function() {
+            this.animations = {
+                'slide-vert': VerticalSlideAnimation,
+                'slide-hori': HorizontalSlideAnimation,
+                'resize': ResizeAnimation,
+                'fade': FadeAnimation,
+                'none': NoneAnimation
+            };
+        },
+        setupElements: function() {
+            this.controls = this.wrapper.find('.ad-controls');
+            this.gallery_info = jQuery('<p class="ad-info"></p>');
+            this.controls.append(this.gallery_info);
+            this.image_wrapper = this.wrapper.find('.ad-image-wrapper');
+            this.image_wrapper.empty();
+            this.nav = this.wrapper.find('.ad-nav');
+            this.thumbs_wrapper = this.nav.find('.ad-thumbs');
+            this.preloads = jQuery('<div class="ad-preloads"></div>');
+            this.loader = jQuery('<img class="ad-loader" src="' + this.settings.loader_image + '">');
+            this.image_wrapper.append(this.loader);
+            this.loader.hide();
+            jQuery(document.body).append(this.preloads);
+        },
+        loading: function(bool) {
+            if (bool) {
+                this.loader.show();
+            } else {
+                this.loader.hide();
+            }
+            ;
+        },
+        addAnimation: function(name, fn) {
+            if (jQuery.isFunction(fn)) {
+                this.animations[name] = fn;
+            }
+            ;
+        },
+        findImages: function() {
+            var context = this;
+            this.images = [];
+            var thumb_wrapper_width = 0;
+            var thumbs_loaded = 0;
+            var thumbs = this.thumbs_wrapper.find('a');
+            var thumb_count = thumbs.length;
+            if (this.settings.thumb_opacity < 1) {
+                thumbs.find('img').css('opacity', this.settings.thumb_opacity);
+            }
+            ;
+            thumbs.each(
+                    function(i) {
+                        var link = jQuery(this);
+                        var image_src = link.attr('href');
+                        var thumb = link.find('img');
+                        // Check if the thumb has already loaded
+                        if (!context.isImageLoaded(thumb[0])) {
+                            thumb.load(
+                                    function() {
+                                        thumb_wrapper_width += this.parentNode.parentNode.offsetWidth;
+                                        thumbs_loaded++;
+                                    }
+                                    );
+                        } else {
+                            thumb_wrapper_width += thumb[0].parentNode.parentNode.offsetWidth// + 2;
+                            thumbs_loaded++;
+                        }
+                        ;
+                        link.addClass('ad-thumb' + i);
+                        link.click(
+                                function() {
+                                    context.showImage(i);
+                                    context.slideshow.stop();
+                                    return false;
+                                }
+                                ).hover(
+                                function() {
+                                    if (!jQuery(this).is('.ad-active') && context.settings.thumb_opacity < 1) {
+                                        jQuery(this).find('img').fadeTo(300, 1);
+                                    }
+                                    ;
+                                    context.preloadImage(i);
+                                },
+                                function() {
+                                    if (!jQuery(this).is('.ad-active') && context.settings.thumb_opacity < 1) {
+                                        jQuery(this).find('img').fadeTo(300, context.settings.thumb_opacity);
+                                    }
+                                    ;
+                                }
+                                );
+                        var desc = false;
+                        if (thumb.data('ad-desc')) {
+                            desc = thumb.data('ad-desc');
+                        } else if (thumb.attr('longdesc') && thumb.attr('longdesc').length) {
+                            desc = thumb.attr('longdesc');
+                        }
+                        ;
+                        var title = false;
+                        if (thumb.data('ad-title')) {
+                            title = thumb.data('ad-title');
+                        } else if (thumb.attr('title') && thumb.attr('title').length) {
+                            title = thumb.attr('title');
+                        }
+                        ;
+                        context.images[i] = { thumb: thumb.attr('src'), image: image_src, error: false,
+                            preloaded: false, desc: desc, title: title, size: false };
+                    }
+                    );
+            // Wait until all thumbs are loaded, and then set the width of the ul
+            var inter = setInterval(
+                    function() {
+                        if (thumb_count == thumbs_loaded) {
+                            context.nav.find('.ad-thumb-list').css('width', thumb_wrapper_width + 'px');
+                            clearInterval(inter);
+                            if (self.afterLoadHandling) afterLoadHandling(gallery1);
+                        }
+                        ;
+                    },
+                    100
+                    ),
+                gallery1 = this;
+        },
+        initKeyEvents: function() {
+            var context = this;
+            jQuery(document).keydown(
+                    function(e) {
+                        if (e.keyCode == 39) {
+                            // right arrow
+                            context.nextImage();
+                            context.slideshow.stop();
+                        } else if (e.keyCode == 37) {
+                            // left arrow
+                            context.prevImage();
+                            context.slideshow.stop();
+                        }
+                        ;
+                    }
+                    );
+        },
+        initNextAndPrev: function() {
+            this.next_link = jQuery('<div class="ad-next"><div class="ad-next-image"></div></div>');
+            this.prev_link = jQuery('<div class="ad-prev"><div class="ad-prev-image"></div></div>');
+            this.image_wrapper.append(this.next_link);
+            this.image_wrapper.append(this.prev_link);
+            var context = this;
+            this.prev_link.add(this.next_link).mouseover(
+                    function(e) {
+                        // IE 6 hides the wrapper div, so we have to set it's width
+                        jQuery(this).css('height', context.image_wrapper_height);
+                        jQuery(this).find('div').show();
+                    }
+                    ).mouseout(
+                    function(e) {
+                        jQuery(this).find('div').hide();
+                    }
+                    ).click(
+                    function() {
+                        if (jQuery(this).is('.ad-next')) {
+                            context.nextImage();
+                            context.slideshow.stop();
+                        } else {
+                            context.prevImage();
+                            context.slideshow.stop();
+                        }
+                        ;
+                    }
+                    ).find('div').css('opacity', 0.7);
+        },
+        initBackAndForward: function() {
+            var context = this;
+            this.scroll_forward = jQuery('<div class="ad-forward"></div>');
+            this.scroll_back = jQuery('<div class="ad-back"></div>');
+            this.nav.append(this.scroll_forward);
+            this.nav.prepend(this.scroll_back);
+            var has_scrolled = 0;
+            var thumbs_scroll_interval = false;
+            jQuery(this.scroll_back).add(this.scroll_forward).click(
+                    function() {
+                        // We don't want to jump the whole width, since an image
+                        // might be cut at the edge
+                        var width = context.nav_display_width - 50;
+                        if (context.settings.scroll_jump > 0) {
+                            var width = context.settings.scroll_jump;
+                        }
+                        ;
+                        if (jQuery(this).is('.ad-forward')) {
+                            var left = context.thumbs_wrapper.scrollLeft() + width;
+                        } else {
+                            var left = context.thumbs_wrapper.scrollLeft() - width;
+                        }
+                        ;
+                        if (context.settings.slideshow.stop_on_scroll) {
+                            context.slideshow.stop();
+                        }
+                        ;
+                        context.thumbs_wrapper.animate({scrollLeft: left + 'px'});
+                        return false;
+                    }
+                    ).css('opacity', 0.6).hover(
+                    function() {
+                        var direction = 'left';
+                        if (jQuery(this).is('.ad-forward')) {
+                            direction = 'right';
+                        }
+                        ;
+                        thumbs_scroll_interval = setInterval(
+                                function() {
+                                    has_scrolled++;
+                                    // Don't want to stop the slideshow just because we scrolled a pixel or two
+                                    if (has_scrolled > 30 && context.settings.slideshow.stop_on_scroll) {
+                                        context.slideshow.stop();
+                                    }
+                                    ;
+                                    var left = context.thumbs_wrapper.scrollLeft() + 1;
+                                    if (direction == 'left') {
+                                        left = context.thumbs_wrapper.scrollLeft() - 1;
+                                    }
+                                    ;
+                                    context.thumbs_wrapper.scrollLeft(left);
+                                },
+                                10
+                                );
+                        jQuery(this).css('opacity', 1);
+                    },
+                    function() {
+                        has_scrolled = 0;
+                        clearInterval(thumbs_scroll_interval);
+                        jQuery(this).css('opacity', 0.6);
+                    }
+                    );
+        },
+        _afterShow: function() {
+            this.gallery_info.html((this.current_index + 1) + ' / ' + this.images.length);
+            if (!this.settings.cycle) {
+                // Needed for IE
+                this.prev_link.show().css('height', this.image_wrapper_height);
+                this.next_link.show().css('height', this.image_wrapper_height);
+                if (this.current_index == (this.images.length - 1)) {
+                    this.next_link.hide();
+                }
+                ;
+                if (this.current_index == 0) {
+                    this.prev_link.hide();
+                }
+                ;
+            }
+            ;
+            this.fireCallback(this.settings.callbacks.afterImageVisible);
+        },
+        /**
+         * Checks if the image is small enough to fit inside the container
+         * If it's not, shrink it proportionally
+         */
+        _getContainedImageSize: function(image_width, image_height) {
+            if (image_height > this.image_wrapper_height) {
+                var ratio = image_width / image_height;
+                image_height = this.image_wrapper_height;
+                image_width = this.image_wrapper_height * ratio;
+            }
+            ;
+            if (image_width > this.image_wrapper_width) {
+                var ratio = image_height / image_width;
+                image_width = this.image_wrapper_width;
+                image_height = this.image_wrapper_width * ratio;
+            }
+            ;
+            return {width: image_width, height: image_height};
+        },
+        /**
+         * If the image dimensions are smaller than the wrapper, we position
+         * it in the middle anyway
+         */
+        _centerImage: function(img_container, image_width, image_height) {
+            img_container.css('top', '0px');
+            if (image_height < this.image_wrapper_height) {
+                var dif = this.image_wrapper_height - image_height;
+                img_container.css('top', (dif / 2) + 'px');
+            }
+            ;
+            img_container.css('left', '0px');
+            if (image_width < this.image_wrapper_width) {
+                var dif = this.image_wrapper_width - image_width;
+                img_container.css('left', (dif / 2) + 'px');
+            }
+            ;
+        },
+        _getDescription: function(image) {
+            var desc = false;
+            if (image.desc.length || image.title.length) {
+                var title = '';
+                if (image.title.length) {
+                    title = '<strong class="ad-description-title">' + image.title + '</strong>';
+                }
+                ;
+                var desc = '';
+                if (image.desc.length) {
+                    desc = '<span>' + image.desc + '</span>';
+                }
+                ;
+                desc = jQuery('<p class="ad-image-description">' + title + desc + '</p>');
+                if (document.getElementById("bgar")) {
+                document.getElementById("bgar").style.display = "";
+                }
+            }
+            ;
+            if (!image.desc.length && document.getElementById("bgar")) {    document.getElementById("bgar").style.display = "none"; };
+            return desc;
+        },
+        /**
+         * @param function callback Gets fired when the image has loaded, is displaying
+         *                          and it's animation has finished
+         */
+        showImage: function(index, callback) {
+            if (this.images[index] && !this.in_transition) {
+                var context = this;
+                var image = this.images[index];
+                this.in_transition = true;
+                if (!image.preloaded) {
+                    this.loading(true);
+                    this.preloadImage(index, function() {
+                        context.loading(false);
+                        context._showWhenLoaded(index, callback);
+                    });
+                } else {
+                    this._showWhenLoaded(index, callback);
+                }
+                ;
+            }
+            ;
+        },
+        /**
+         * @param function callback Gets fired when the image has loaded, is displaying
+         *                          and it's animation has finished
+         */
+        _showWhenLoaded: function(index, callback) {
+            if (this.images[index]) {
+                var context = this;
+                var image = this.images[index];
+                var img_container = jQuery(document.createElement('div')).addClass('ad-image');
+                var img = jQuery(new Image()).attr('src', image.image);
+                img_container.append(img);
+                this.image_wrapper.prepend(img_container);
+                //var size = this._getContainedImageSize(image.size.width, 390);
+				//img.attr('width', size.width);
+				// changes of 20/01/16 - set image_wrapper_width to resize image to slider format
+				var size = this._getContainedImageSize(this.image_wrapper_width, 390);
+                img.css({width: this.image_wrapper_width + 'px', height: 'auto'});
+                //img.attr('height', size.height);
+                //img_container.css({width: size.width + 'px', height: size.height + 'px'});
+				img_container.css({width: this.image_wrapper_width + 'px', height: size.height + 'px'});
+				
+                this._centerImage(img_container, size.width, size.height);
+                var desc = this._getDescription(image, img_container);
+                if (desc) {
+                    if (!this.settings.description_wrapper) {
+                        img_container.append(desc);
+                        var width = size.width - parseInt(desc.css('padding-left'), 10) - parseInt(desc.css('padding-right'), 10);
+                        desc.css('width', width + 'px');
+                    } else {
+                        this.settings.description_wrapper.append(desc);
+                    }
+                }
+                ;
+                this.highLightThumb(this.nav.find('.ad-thumb' + index));
+
+                var direction = 'right';
+                if (this.current_index < index) {
+                    direction = 'left';
+                }
+                ;
+                this.fireCallback(this.settings.callbacks.beforeImageVisible);
+                if (this.current_image || this.settings.animate_first_image) {
+                    var animation_speed = this.settings.animation_speed;
+                    var easing = 'swing';
+                    var animation = this.animations[this.settings.effect].call(this, img_container, direction, desc);
+                    if (typeof animation.speed != 'undefined') {
+                        animation_speed = animation.speed;
+                    }
+                    ;
+                    if (typeof animation.easing != 'undefined') {
+                        easing = animation.easing;
+                    }
+                    ;
+                    if (this.current_image) {
+                        var old_image = this.current_image;
+                        var old_description = this.current_description;
+                        if (old_description) old_description.hide();
+
+                        old_image.animate(animation.old_image, animation_speed, easing,
+                                function() {
+                                    old_image.remove();
+                                    if (old_description) old_description.remove();
+                                }
+                                );
+                    }
+                    ;
+                    img_container.animate(animation.new_image, animation_speed, easing,
+                            function() {
+                                context.current_index = index;
+                                context.current_image = img_container;
+                                context.current_description = desc;
+                                context.in_transition = false;
+                                context._afterShow();
+                                context.fireCallback(callback);
+                            }
+                            );
+                } else {
+                    this.current_index = index;
+                    this.current_image = img_container;
+                    context.current_description = desc;
+                    this.in_transition = false;
+                    context._afterShow();
+                    this.fireCallback(callback);
+                }
+                ;
+            }
+            ;
+        },
+        nextIndex: function() {
+            if (this.current_index == (this.images.length - 1)) {
+                if (!this.settings.cycle) {
+                    return false;
+                }
+                ;
+                var next = 0;
+            } else {
+                var next = this.current_index + 1;
+            }
+            ;
+            return next;
+        },
+        nextImage: function(callback) {
+            var next = this.nextIndex();
+            if (next === false) return false;
+            this.preloadImage(next + 1);
+            this.showImage(next, callback);
+            return true;
+        },
+        prevIndex: function() {
+            if (this.current_index == 0) {
+                if (!this.settings.cycle) {
+                    return false;
+                }
+                ;
+                var prev = this.images.length - 1;
+            } else {
+                var prev = this.current_index - 1;
+            }
+            ;
+            return prev;
+        },
+        prevImage: function(callback) {
+            var prev = this.prevIndex();
+            if (prev === false) return false;
+            this.preloadImage(prev - 1);
+            this.showImage(prev, callback);
+            return true;
+        },
+        preloadAll: function() {
+            var context = this;
+            var i = 0;
+
+            function preloadNext() {
+                if (i < context.images.length) {
+                    i++;
+                    context.preloadImage(i, preloadNext);
+                }
+                ;
+            }
+
+            ;
+            context.preloadImage(i, preloadNext);
+        },
+        preloadImage: function(index, callback) {
+            if (this.images[index]) {
+                var image = this.images[index];
+                if (!this.images[index].preloaded) {
+                    var img = jQuery(new Image());
+                    img.attr('src', image.image);
+                    if (!this.isImageLoaded(img[0])) {
+                        this.preloads.append(img);
+                        var context = this;
+                        img.load(
+                                function() {
+                                    image.preloaded = true;
+                                    image.size = { width: this.width, height: this.height };
+                                    context.fireCallback(callback);
+                                }
+                                ).error(
+                                function() {
+                                    image.error = true;
+                                    image.preloaded = false;
+                                    image.size = false;
+                                }
+                                );
+                    } else {
+                        image.preloaded = true;
+                        image.size = { width: img[0].width, height: img[0].height };
+                        this.fireCallback(callback);
+                    }
+                    ;
+                } else {
+                    this.fireCallback(callback);
+                }
+                ;
+            }
+            ;
+        },
+        isImageLoaded: function(img) {
+            if (typeof img.complete != 'undefined' && !img.complete) {
+                return false;
+            }
+            ;
+            if (typeof img.naturalWidth != 'undefined' && img.naturalWidth == 0) {
+                return false;
+            }
+            ;
+            return true;
+        },
+        highLightThumb: function(thumb) {
+            this.thumbs_wrapper.find('.ad-active').removeClass('ad-active');
+            thumb.addClass('ad-active');
+            if (this.settings.thumb_opacity < 1) {
+                this.thumbs_wrapper.find('a:not(.ad-active) img').fadeTo(300, this.settings.thumb_opacity);
+                thumb.find('img').fadeTo(300, 1);
+            }
+            ;
+            var left = thumb[0].parentNode.offsetLeft;
+            left -= (this.nav_display_width / 2) - (thumb[0].offsetWidth / 2);
+            this.thumbs_wrapper.animate({scrollLeft: left + 'px'});
+        },
+        fireCallback: function(fn) {
+            if (jQuery.isFunction(fn)) {
+                fn.call(this);
+            }
+            ;
+        }
+    };
+
+    function AdGallerySlideshow(nextimage_callback, settings) {
+        this.init(nextimage_callback, settings);
+    }
+
+    ;
+    AdGallerySlideshow.prototype = {
+        start_link: false,
+        stop_link: false,
+        countdown: false,
+        controls: false,
+
+        settings: false,
+        nextimage_callback: false,
+        enabled: false,
+        running: false,
+        countdown_interval: false,
+        init: function(nextimage_callback, settings) {
+            var context = this;
+            this.nextimage_callback = nextimage_callback;
+            this.settings = settings;
+        },
+        create: function() {
+            this.start_link = jQuery('<span class="ad-slideshow-start"><img src="images/military/pause.gif" width="10" height="20" alt=">" /></span>');
+            this.stop_link = jQuery('<span class="ad-slideshow-stop"><img src="images/military/play.gif" width="10" height="20" alt="||" /></span>');
+            this.countdown = jQuery('');
+            this.controls = jQuery('<div class="ad-slideshow-controls"></div>');
+            this.controls.append(this.start_link).append(this.stop_link).append(this.countdown);
+            this.stop_link.hide();
+
+            var context = this;
+            this.start_link.click(
+                    function() {
+                        context.stop();
+                        context.stop_link.show();
+                        context.start_link.hide();                        
+                    }
+                    );
+            this.stop_link.click(
+                    function() {
+                        context.start();
+                        context.start_link.show();
+                        context.stop_link.hide();
+                    }
+                    );
+            jQuery(document).keydown(
+                    function(e) {
+                        if (e.keyCode == 83) {
+                            // 's'
+                            if (context.running) {
+                                context.stop();
+                            } else {
+                                context.start();
+                            }
+                            ;
+                        }
+                        ;
+                    }
+                    );
+            return this.controls;
+        },
+        disable: function() {
+            this.enabled = false;
+            this.stop();
+            this.controls.hide();
+        },
+        enable: function() {
+            this.enabled = true;
+            this.controls.show();
+        },
+        toggle: function() {
+            if (this.enabled) {
+                this.disable();
+            } else {
+                this.enable();
+            }
+            ;
+        },
+        start: function() {
+            if (this.running || !this.enabled) return false;
+            var context = this;
+            this.running = true;
+            this.controls.addClass('ad-slideshow-running');
+            this._next();
+            this.fireCallback(this.settings.onStart);
+            return true;
+        },
+        stop: function() {
+            if (!this.running) return false;
+            this.running = false;
+            this.countdown.hide();
+            this.controls.removeClass('ad-slideshow-running');
+            clearInterval(this.countdown_interval);
+            this.fireCallback(this.settings.onStop);
+            return true;
+        },
+        _next: function() {
+            var context = this;
+            var pre = this.settings.countdown_prefix;
+            var su = this.settings.countdown_sufix;
+            clearInterval(context.countdown_interval);
+            this.countdown.show().html(pre + (this.settings.speed / 1000) + su);
+            var slide_timer = 0;
+            this.countdown_interval = setInterval(
+                    function() {
+                        slide_timer += 1000;
+                        if (slide_timer >= context.settings.speed) {
+                            var whenNextIsShown = function() {
+                                // A check so the user hasn't stoped the slideshow during the
+                                // animation
+                                if (context.running) {
+                                    context._next();
+                                }
+                                ;
+                                slide_timer = 0;
+                            };
+                            if (!context.nextimage_callback(whenNextIsShown)) {
+                                context.stop();
+                            }
+                            ;
+                            slide_timer = 0;
+                        }
+                        ;
+                        var sec = parseInt(context.countdown.text().replace(/[^0-9]/g, ''), 10);
+                        sec--;
+                        if (sec > 0) {
+                            context.countdown.html(pre + sec + su);
+                        }
+                        ;
+                    },
+                    1000
+                    );
+        },
+        fireCallback: function(fn) {
+            if (jQuery.isFunction(fn)) {
+                fn.call(this);
+            }
+            ;
+        }
+    };
+})(jQuery);
+</script>
+<script type="text/javascript">
+	var  hideParents=null;
+	var galleries = null;
+	jQuery(function() {
+		jQuery('img.image1').data('ad-desc', '');
+		jQuery('img.image1').data('ad-title', '');
+		jQuery('img.image4').data('ad-desc', '');
+		jQuery('img.image5').data('ad-desc', '');
+		var hidParents=jQuery('.ad-gallery').parents("tr:hidden");
+		hidParents.css("visibility","hidden").css("display","");
+		hideParents=hidParents;
+
+
+		var gallery_settings = self.gallery_settings || {description_wrapper: jQuery('#descriptions')};
+
+		if (!galleries) {
+		  galleries = jQuery('.ad-gallery').adGallery(gallery_settings);
+		}
+		jQuery('#switch-effect').change(
+				function() {
+					galleries[0].settings.effect = jQuery(this).val();
+					return false;
+				}
+				);
+		jQuery('#toggle-slideshow').click(
+				function() {
+					galleries[0].slideshow.toggle();
+					return false;
+				}
+				);
+	 //   hidParents.css("display","none").css("visibility","visible");
+	});
+
+	function afterLoadHandling() {
+	   if (hideParents) hideParents.css("display","none").css("visibility","visible");
+	}
+</script><style type="text/css">
+	#gallery{background:#E3E3E3;height:390px;overflow:hidden;position:relative}#descriptions .ad-image-description{position:absolute;color:#fff;width:460px;z-index:220;margin:-70px 0 0 20px}#centertop #descriptions .ad-image-description{margin:-70px 0 0 20px !important}*+html #descriptions .ad-image-description{margin:-65px 0 0 20px}*+html #centertop #descriptions .ad-image-description{margin:-65px 0 0 20px !important}div.bgdesc{background:#000;position:absolute;z-index:200;width:500px;height:70px;margin:-75px 0 0 20px;opacity:.7;-ms-filter:alpha(opacity=70)}#centertop div.bgdesc{margin:-75px 0 0 20px !important}.ad-gallery{width:550px}#centertop .ad-gallery{margin:0!important}.ad-gallery,.ad-gallery *{margin:0;padding:0}.ad-gallery .ad-image-wrapper{height:390px!important;margin-bottom:10px;position:relative;overflow:hidden;width:550px}.ad-gallery .ad-image-wrapper .ad-loader{position:absolute;z-index:10;top:48%;left:48%;border:1px solid #CCC}.ad-gallery .ad-image-wrapper .ad-next{position:absolute;right:0;top:0;width:25%;cursor:pointer;display:block;z-index:100}.ad-gallery .ad-image-wrapper .ad-prev{position:absolute;left:0;top:0;width:25%;cursor:pointer;display:block;z-index:100}.ad-gallery .ad-image-wrapper .ad-image{position:absolute;overflow:hidden;top:0;left:0;z-index:9}.ad-gallery .ad-image-wrapper .ad-image .ad-image-description{position:absolute;bottom:0;left:0;padding:7px;text-align:left;width:100%;z-index:2;color:#000}.ad-gallery .ad-image-wrapper .ad-image .ad-image-description .ad-description-title{display:block}.ad-description-title{display:block;color:#989898;font-family:Georgia,Arial;font-style:italic;font-weight:400}.ad-image-description{width:520px;text-align:left!important}.ad-gallery .ad-controls{height:18px;z-index:40;position:absolute;background:#000;margin:-375px 20px 0;opacity:.6;-ms-filter:alpha(opacity=60)}#centertop .ad-gallery .ad-controls{background:transparent none!important}.ad-gallery .ad-info{display:none}.ad-gallery .ad-slideshow-controls{float:left}.ad-gallery .ad-slideshow-controls .ad-slideshow-start,.ad-gallery .ad-slideshow-controls .ad-slideshow-stop{display:block;cursor:pointer!important}.ad-slideshow-start img,.ad-slideshow-stop img{width:18px;height:18px}.ad-gallery .ad-slideshow-controls .ad-slideshow-countdown{padding-left:5px;font-size:.9em;display:none;color:#fff}.ad-slideshow-countdown{display:none!important}.ad-gallery .ad-slideshow-running .ad-slideshow-start{cursor:default;font-style:italic}.ad-gallery .ad-nav{z-index:10;width:540px;position:absolute;top:20px;right:10px}#centertop .ad-gallery .ad-nav{position:absolute!important;width:540px!important}.ad-gallery .ad-forward,.ad-gallery .ad-back{position:absolute;top:0;height:100%;z-index:10;display:none!important}* html .ad-gallery .ad-forward,.ad-gallery .ad-back{height:100px;display:none!important}#centertop div.ad-thumbs{background:transparent none!important}.ad-gallery .ad-nav .ad-thumbs{overflow:hidden;width:100%}.ad-gallery .ad-thumbs .ad-thumb-list{float:right;list-style:none}#centertop .ad-gallery .ad-thumbs .ad-thumb-list{float:right!important}.ad-gallery .ad-thumbs li{float:left;padding-right:5px}.ad-gallery .ad-thumbs li a,.ad-gallery .ad-thumbs li a.ad-active{display:block;text-decoration:none;color:#fff;width:28px;height:30px;text-align:center;padding-top:5px;background:url(/images/military/gallery/t.gif) no-repeat}.ad-gallery .ad-thumbs li a.ad-active{background:url(/images/military/gallery/ta.gif) no-repeat}.ad-gallery .ad-thumbs li a img{display:none!important}.ad-gallery .image0{width:550px;height:390px;display:block}.ad-gallery .ad-thumbs li a.ad-active img{display:none!important}.ad-preloads{position:absolute;left:-9000px;top:-9000px}.ad-image{filter:none!important}
+</style>
+<div id="centertop" class="topblock-center">
+  <div id="gallery" class="ad-gallery">
+    <div class="ad-image-wrapper">&#160;
+    <noscript>
+    <div class="ad-image">
+       <img class="image0" alt="Брифинг Минобороны России" src="images/military/gallery/2019/SSB_1171_1_550%281%29.jpg" >
+	   <img class="image0" alt="На Балтийском флоте пройдёт всеармейский этап конкурса «Морской десант-2022»" src="images/military/gallery/2019/bf1-174-550.png" >
+	   <img class="image0" alt="Брифинг Минобороны России" src="images/military/gallery/2019/SSB_1171_1_550%281%29.jpg" >
+	   <img class="image0" alt="Юнармейцы и школьники Ростовской области поддержали российских военнослужащих, выполняющих задачи в ходе специальной военной операции" src="images/military/gallery/2019/dxxfdxfdx_2.jpg" >
+	   </div> 
+    </noscript>
+    </div>
+    <div class="ad-controls"></div>  
+    <div class="ad-nav">
+      <div class="ad-thumbs">
+        <ul class="ad-thumb-list">
+          <li>
+                <a href="images/military/gallery/2019/SSB_1171_1_550%281%29.jpg">
+                  <span>1</span>
+                  <img
+                      title="17.04.2022"
+                      longdesc="<a href='https://function.mil.ru:443/news_page/country/more.htm?id=12417788@egNews'>Брифинг Минобороны России</a>"
+                      class="image0" alt="Брифинг Минобороны России" src="images/military/gallery/t.gif">
+                </a>
+              </li>
+              <li>
+                <a href="images/military/gallery/2019/bf1-174-550.png">
+                  <span>2</span>
+                  <img
+                      title="17.04.2022"
+                      longdesc="<a href='https://function.mil.ru:443/news_page/country/more.htm?id=12417759@egNews'>На Балтийском флоте пройдёт всеармейский этап конкурса «Морской десант-2022»</a>"
+                      class="image0" alt="На Балтийском флоте пройдёт всеармейский этап конкурса «Морской десант-2022»" src="images/military/gallery/t.gif">
+                </a>
+              </li>
+              <li>
+                <a href="images/military/gallery/2019/SSB_1171_1_550%281%29.jpg">
+                  <span>3</span>
+                  <img
+                      title="17.04.2022"
+                      longdesc="<a href='https://function.mil.ru:443/news_page/country/more.htm?id=12417766@egNews'>Брифинг Минобороны России</a>"
+                      class="image0" alt="Брифинг Минобороны России" src="images/military/gallery/t.gif">
+                </a>
+              </li>
+              <li>
+                <a href="images/military/gallery/2019/dxxfdxfdx_2.jpg">
+                  <span>4</span>
+                  <img
+                      title="17.04.2022"
+                      longdesc="<a href='https://function.mil.ru:443/news_page/country/more.htm?id=12417733@egNews'>Юнармейцы и школьники Ростовской области поддержали российских военнослужащих, выполняющих задачи в ходе специальной военной операции</a>"
+                      class="image0" alt="Юнармейцы и школьники Ростовской области поддержали российских военнослужащих, выполняющих задачи в ходе специальной военной операции" src="images/military/gallery/t.gif">
+                </a>
+              </li>
+              </ul>
+      </div>
+    </div>
+  </div>
+  <div class="picinfo" id="descriptions">
+      <noscript>
+      <p class="ad-image-description">
+          <strong class="ad-description-title">17.04.2022</strong>
+          <span>
+          <a href='https://function.mil.ru:443/news_page/country/more.htm?id=12417733@egNews'>Юнармейцы и школьники Ростовской области поддержали российских военнослужащих, выполняющих задачи в ходе специальной военной операции</a>
+          </span>    
+      </p>
+      </noscript>
+  </div>
+  <div class="bgdesc"></div>
+</div><div class="sh fixed" id="sh2" style="display:none" onClick="hide_gallery()">&nbsp;</div>
+  <div style="height:700px; top:50%; left:50%; width:900px; margin:-350px 0 0 -450px; z-index:2000; background:#FFFFFF; border:#FFFFFF 1px solid; display:none" class="fixed" id="splash_gallery">
+
+
+    <b style="display:block; position:absolute; right:10px; top:5px; text-decoration:none; color:#FFFFFF; cursor:pointer" onClick="hide_gallery()">[<u class="orange">x</u>]</b>
+   <iframe src="" frameborder="0" id="splash_load" style="width:900px; height:700px"></iframe>
+  </div>
+
+    <script type="text/javascript">
+		//
+
+     var load_gallery = function(url) {
+         var $=jQuery;
+         $('#splash_gallery, #sh2').show();
+         $('#splash_load').attr('src', url)//.empty().load(url, function() {$(this).hide().fadeIn()})
+        // $('body').one('click', function() {jQuery('#sh, #splash').hide();});
+     }, hide_gallery = function() {
+       jQuery('#splash_gallery, #sh2').fadeOut();
+       jQuery('#splash_load').attr('src', '');
+     }
+	</script><div id="righttop" class="topblock-right">
+    <div class="toptitle">
+		<div>
+			<script type="text/javascript">
+				var d = new Date();
+				document.write(d.getDate() + " " + ((typeof(calMessages)=="object")?calMessages.months2[d.getMonth()]:((d.getMonth() < 9) ? "0" : "")+(d.getMonth()+1)) + " " + (d.getFullYear()));
+			</script>
+		</div>
+	</div><div>
+  <a href="http://contract.mil.ru/enlistment_contract/info.htm"><img alt="" src="files/files/contract_banner_208.png"></a> 
+  <a href="http://mil.ru/projects.htm"><img alt="" src="files/files/208-119_spp.jpg"></a> 
+  <a href="http://syria.mil.ru"><img alt="" src="images/military/mis-sir2.jpg"></a>
+</div>
+</div><div class="shadow"></div>
+    <div class="wrapper"></div>
+    <div class="armytype">
+  <style type="text/css">
+	div.armytype a {
+		text-decoration: none;
+	}
+	
+	div.armytype a:hover {
+		text-decoration: underline;
+	}
+</style>
+<a  href="http://structure.mil.ru/structure/forces/ground.htm"
+   style="background-image: url('images/military/ico01a.gif');" ><span>Сухопутные войска</span></a>
+<style type="text/css">
+	div.armytype a {
+		text-decoration: none;
+	}
+	
+	div.armytype a:hover {
+		text-decoration: underline;
+	}
+</style>
+<a  href="http://structure.mil.ru/structure/forces/vks.htm"
+   style="background-image: url('images/ico02a.gif');" ><span>Воздушно-космические силы</span></a>
+<style type="text/css">
+	div.armytype a {
+		text-decoration: none;
+	}
+	
+	div.armytype a:hover {
+		text-decoration: underline;
+	}
+</style>
+<a  href="http://structure.mil.ru/structure/forces/navy.htm"
+   style="background-image: url('images/military/ico03a.gif');" ><span>Военно-Морской Флот</span></a>
+<style type="text/css">
+	div.armytype a {
+		text-decoration: none;
+	}
+	
+	div.armytype a:hover {
+		text-decoration: underline;
+	}
+</style>
+<a  href="http://structure.mil.ru/structure/forces/strategic_rocket.htm"
+   style="background-image: url('images/military/ico04a.gif');" ><span>Ракетные войска стратегического назначения</span></a>
+<style type="text/css">
+	div.armytype a {
+		text-decoration: none;
+	}
+	
+	div.armytype a:hover {
+		text-decoration: underline;
+	}
+</style>
+<a  href="http://structure.mil.ru/structure/forces/airborne.htm"
+   style="background-image: url('images/military/ico06a.gif');border-right:0;" ><span>Воздушно-десантные войска</span></a>
+</div>
+<div class="shadow"></div><div id="left">
+      <a href="https://стопкоронавирус.рф"><img alt="" src="images/logo_stopkoronavirus.svg" style="width: 210px; height: 26px; margin-top: 8px;" /></a><div class="contentblock-left">	
+	<div class="borderblock m_mt">
+		<div class="borderblock-title">
+			<span>Наша миссия</span>
+		</div>
+
+	  <div class="borderblock-holder">
+		<ul class="lightmenu">
+			<li><a href='http://structure.mil.ru/mission/tasks.htm'>Задачи Вооруженных Сил Российской Федерации</a></li>
+			<li><a href='http://structure.mil.ru/mission/credentials.htm'>Полномочия Минобороны России</a></li>
+			</ul>
+	  </div>
+	</div>
+</div><div class="contentblock-left">
+	<div class="borderblock m_st">
+		<div class="borderblock-holder">
+			<ul class="sidemenu e-slidemenu">
+				<li><a href="https://cabinet.mil.ru/" class='' target="_blank"><img src="https://mil.ru:443/images/military/lichnii-kab-50x50_31px.jpg" alt=""><span>Личный кабинет</span></a>
+						  </li>
+					  <li><a href="/" class='menu_href' target="_self"><img src="https://mil.ru:443/images/military/vistavki-50x50-new_31px.jpg" alt=""><span>Конгрессно-выставочная деятельность</span></a>
+						  <ul><li><a href="http://patriot-expo.ru/" target="_blank"><span>Конгрессно-выставочный центр «Патриот»</span></a></li>
+								<li><a href="http://patriotp.ru" target="_blank"><span>Военно-патриотический парк культуры и отдыха ВС РФ «ПАТРИОТ»</span></a></li>
+								<li><a href="https://mil.ru/armyforum.htm" target="_blank"><span>Международный военно-технический форум «АРМИЯ»</span></a></li>
+								</ul></li>
+					  <li><a href="http://mil.ru/mission/innovacia.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/0b0d3830-f24a-4182-8094-45357202bcba.jpg" alt=""><span>Инновационная деятельность</span></a>
+						  </li>
+					  <li><a href="http://mil.ru/dgo.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/jilie-50x50_31px.jpg" alt=""><span>Жилье военнослужащим</span></a>
+						  </li>
+					  <li><a href="http://mil.ru/anti-corruption.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/kor-31x31.jpg" alt=""><span>Противодействие коррупции</span></a>
+						  </li>
+					  <li><a href="http://structure.mil.ru/mission/fight_against_terrorism.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/sasha_2(1).jpg" alt=""><span>Противодействие терроризму и его идеологии</span></a>
+						  </li>
+					  <li><a href="fea/dfm.htm" class='' target="_blank"><img src="https://mil.ru:443/images/military/linia-50x50-new_31px.jpg" alt=""><span>Горячая линия Гособоронзаказа</span></a>
+						  </li>
+					  <li><a href="http://function.mil.ru/function/mto/info.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/mto-50x50-1-31.jpg" alt=""><span>Материально-техническое обеспечение</span></a>
+						  </li>
+					  <li><a href="http://mil.ru/fea.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/fin-50x50-1-31.jpg" alt=""><span>Финансово-экономическая деятельность</span></a>
+						  </li>
+					  <li><a href="https://mil.ru/economy/orders/news.htm" class='' target="_blank"><img src="https://mil.ru:443/images/military/zakupki-50x50_31px.jpg" alt=""><span>Закупочная деятельность</span></a>
+						  </li>
+					  <li><a href="https://ens.mil.ru/science/military_scientific_committee.htm" class='' target="_blank"><img src="https://mil.ru:443/images/military/nauka-50x50_31px.jpg" alt=""><span>Наука</span></a>
+						  </li>
+					  <li><a href="http://sc.mil.ru/social/culture.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/лира.jpg" alt=""><span>Культура</span></a>
+						  </li>
+					  <li><a href="https://sc.mil.ru/social/sport/news.htm" class='' target="_blank"><img src="https://mil.ru:443/images/military/sport-50x50_31px.jpg" alt=""><span>Спорт в ВС РФ</span></a>
+						  </li>
+					  <li><a href="/" class='menu_href' target="_self"><img src="https://mil.ru:443/images/military/uppzo-31.jpg" alt=""><span><div style="letter-spacing:-0.15pt;">Увековечение памяти погибших при защите Отечества</div></span></a>
+						  <ul><li><a href="https://mil.ru/commemoration.htm" target="_blank"><span>Управление МО РФ по увековечению памяти погибших при защите Отечества</span></a></li>
+								<li><a href="https://mil.ru/memorial_cemetery.htm" target="_blank"><span>Федеральный военный мемориал «Пантеон защитников Отечества»</span></a></li>
+								<li><a href="https://mil.ru/commemoration/memorial/federalprogramm.htm" target="_blank"><span>ФЦП «Увековечение памяти погибших при защите Отечества на 2019 – 2024 годы</span></a></li>
+								<li><a href="https://mil.ru/commemoration/memorial/pamyat_naroda.htm" target="_blank"><span>Интерактивный сервис «Память народа»</span></a></li>
+								</ul></li>
+					  <li><a href="/" class='menu_href' target="_self"><img src="https://mil.ru:443/images/military/kn-31x31.jpg" alt=""><span>Банки данных и архивы</span></a>
+						  <ul><li><a href="http://ens.mil.ru/science/lib_gs/about.htm" target="_self"><span>«Информационный историко-научный центр Генштаба ВС РФ»</span></a></li>
+								<li><a href="http://archive.mil.ru/archival_service/central.htm" target="_self"><span>Центральный архив Минобороны России</span></a></li>
+								<li><a href="https://pamyat-naroda.ru/" target="_blank"><span>Память народа</span></a></li>
+								<li><a href="http://podvignaroda.ru" target="_blank"><span>Подвиг народа</span></a></li>
+								<li><a href="https://doroga.mil.ru/" target="_blank"><span>Проект «Дорога памяти»</span></a></li>
+								<li><a href="http://obd-memorial.ru/html/index.html" target="_blank"><span>Обобщенный банк данных «Мемориал»</span></a></li>
+								<li><a href="https://gwar.mil.ru/" target="_blank"><span>Памяти героев Великой войны 1914-1918 гг.</span></a></li>
+								<li><a href="http://encyclopedia.mil.ru/encyclopedia/dictionary/list.htm" target="_self"><span>Военный энциклопедический словарь</span></a></li>
+								</ul></li>
+					  <li><a href="https://mil.ru/state_services.htm" class='' target="_blank"><img src="https://mil.ru:443/images/military/perechen.jpg" alt=""><span>Государственные услуги</span></a>
+						  </li>
+					  <li><a href="http://mil.ru/elections.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/elections-31x31(1).jpg" alt=""><span>Уголок избирателя</span></a>
+						  </li>
+					  <li><a href="http://function.mil.ru/function/public_board.htm" class='' target="_self"><img src="https://mil.ru:443/images/military/banner50-obschsovet.jpg" alt=""><span>Общественный совет</span></a>
+						  </li>
+					  <li><a href="https://ach.gov.ru/page/contest-SPRF-2021" class='' target="_blank"><img src="https://mil.ru:443/images/military/palata-31.jpg" alt=""><span>Конкурс Счетной палаты РФ по доказательной политике</span></a>
+						  </li>
+					  </ul>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery(".menu_href").click(function(e){
+			e.preventDefault();
+			var ul = jQuery(this).next("ul");
+			if(ul.css("display") == "none"){
+				jQuery(this).addClass("active");
+				ul.slideDown();
+			} else {
+				jQuery(this).removeClass("active");
+				ul.slideUp();
+			}			
+		});
+	});
+</script><div class="contentblock-left">	
+  <div class="borderblock m_st">
+	<div class="borderblock-holder">
+	  <ul class="lightmenu">
+	  <li><a href='http://recrut.mil.ru/for_recruits.htm'>Призывникам</a></li>
+	  <li><a href='http://recrut.mil.ru/for_conscripts.htm'>Военнослужащим по призыву</a></li>
+	  <li><a href='http://recrut.mil.ru/for_contract_soldiers.htm'>Кандидатам и военнослужащим по контракту</a></li>
+	  <li><a href='http://recrut.mil.ru/for_retirees.htm'>Военнослужащим запаса и в отставке</a></li>
+	  <li><a href='http://veteran.mil.ru/for_veterans.htm'>Ветеранам</a></li>
+	  <li><a href='http://kids.mil.ru/for_children.htm'>Детям</a></li>
+	  </ul>
+   </div>
+ </div>
+</div><script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"

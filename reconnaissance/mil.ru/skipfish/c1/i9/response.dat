@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Sun, 17 Apr 2022 19:27:08 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: JSESSIONID=797EBED363BC605232BEC3D88BA01941; Path=/; SameSite=None; HttpOnly; Secure
+Server: Ministry of Defence of the Russian Federation
+X-Server: stat2
+Cache-Control: public, must-revalidate, proxy-revalidate
+Pragma: no-cache
+X-Cache: MISS
+X-Time: 0.100
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; connect-src 'self' mil.ru *.mil.ru *.tildacdn.com *.gcdn.co *.mail.ru top100.ru stat.sputnik.ru mc.yandex.ru www.google-analytics.com *.anycaster.tv *.vintera.tv *.cdnvideo.ru; script-src 'self' 'unsafe-inline' 'unsafe-eval' vk.com yastatic.net megatimer.ru stat.sputnik.ru *.stat.sputnik.ru tildacdn.com *.tildacdn.com *.vintera.tv *.cdnvideo.ru *.youtu.be *.youtube.com mil.ru *.mil.ru *.rambler.ru *.yandex.ru *.mail.ru *.google-analytics.com *.google.com top100.ru *.top100.ru *.tvzvezda.ru tvzvezda.ru *.mail.ru tns-counter.ru *.tns-counter.ru *.googletagmanager.com mil.ru *.mil.ru *.xn--90anlfbebar6i.xn--p1ai; object-src 'self' *.mil.ru *.vintera.tv *.cdnvideo.ru *.youtube.com; style-src 'self' 'unsafe-inline' megatimer.ru mil.ru *.mil.ru *.googleapis.com; img-src 'self' mil.ru *.mil.ru vk.com stat.sputnik.ru cnt.sputnik.ru doubleclick.net *.doubleclick.net tns-counter.ru *.tns-counter.ru *.google.com google.com data: counter.yadro.ru *.yandex.net *.yandex.ru *.youtube.com *.vintera.tv *.cdnvideo.ru *.youtu.be *.youtube.com *.mail.ru *.google-analytics.com *.rambler.ru ; media-src 'self' mil.ru *.mil.ru *.youtube.com *.vintera.tv *.cdnvideo.ru *.youtu.be *.youtube.com *.xn--90anlfbebar6i.xn--p1ai; frame-src 'self' mil.ru *.mil.ru rutube.ru anycaster.tv *.anycaster.tv livezvezda.mediacdn.ru *.livezvezda.mediacdn.ru newapp.bonus-tv.ru *.newapp.bonus-tv.ru vk.com *.vk.com ok.ru *.ok.ru tvzvezda.ru *.tvzvezda.ru yandex.ru *.yandex.ru *.yandex.net *.youtube.com youtube.com *.youtu.be youtu.be *.google.com *.vintera.tv *.cdnvideo.ru; font-src 'self' fonts.gstatic.com tildacdn.com *.tildacdn.com mil.ru *.mil.ru *.vintera.tv *.cdnvideo.ru *.mil.ru *.youtube.com *.youtube.com *.youtu.be *.google.com; frame-ancestors 'self' http://mil.ru http://*.mil.ru https://vuz.mil.ru https://www.mil.ru https://*.mil.ru https://anycaster.tv https://livezvezda.mediacdn.ru https://youtube.com https://*.youtube.com https://youtu.be https://*.youtu.be; base-uri 'self'; form-action 'self' mil.ru *.mil.ru; upgrade-insecure-requests;
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: same-origin
+X-Frame-Options: sameorigin
+Permissions-Policy: accelerometer=(),autoplay=(),camera=(),encrypted-media=(),fullscreen=*,geolocation=*,gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),sync-xhr=*,usb=(),xr-spatial-tracking=()
+Strict-Transport-Security: max-age=300
