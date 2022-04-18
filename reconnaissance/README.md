@@ -43,3 +43,8 @@ Based on https://medium.com/@bibinrajbs/using-recon-ng-in-kali-2020-cc76aa3a4a6d
 2. `nmap -v [domain]`, e.g., `cbr.ru`
 
 Based on <https://www.varonis.com/blog/nmap-commands> and <https://nmap.org/book/man-examples.html>
+
+### Various findings using `skipfish`, required steps:
+
+1. `Kali Linux`
+2. `skipfish -o output_folder [domain]`, .e.g., `mil.ru`
