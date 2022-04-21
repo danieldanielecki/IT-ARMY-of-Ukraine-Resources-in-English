@@ -17,7 +17,26 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 ## Distributed Denial of Service Attack (DDoS Attack) Instruction
 
 1. Download the Tor Browser: https://www.torproject.org/download/
-2. Go to the websites ... (all websites have been blocked, TODO: add new online website)
+2. Go to the websites ... The list was copied from https://slink.news/2022/03/16/join-the-fight-here/ (see more up-to-date list there) and other places. Some sites may be temporary blocked or down.
+ - https://ban-dera.com
+ - https://eitzen.at/fckptn/
+ - https://stopwarnow.github.io
+ - https://павутина.укр/
+ - https://www.lookquizru.xyz/
+ - https://2022pollquizinru.xyz
+ - https://playforukraine.live
+ - https://stop-russian-propaganda.pp.ua
+ - http://www.notwar.ho.ua
+ - https://stop-russian-desinformation.near.page
+ - https://gloryofukraine.github.io/Stop-Russian-Invasion/
+ - https://carlostkd.ch/support/
+
+Hint: Consider   to **disable computer sleep setting**, otherwise your computer will stop after some time.
+E.g. on Windows go to “Power and Sleep settings” and set PC goes to sleep: NEVER
+
+Warning! When opening these sites, your  **computer/tablet/mobile may be slow**.
+Important! Don’t forget the enabled VPN, which you need to change from time to time, or Tor Browser, which you need to reopen periodically.  
+
 3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points) or https://ddosmonitor.herokuapp.com
 
 ### Other DDoS Tools
