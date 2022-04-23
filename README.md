@@ -268,16 +268,16 @@ https://github.com/jamesdh/kompromat
 
 ## General Information
 
-- Official IT-Army Website: https://itarmy.com.ua/
-- Best No Logs VPNs: https://cybernews.com/best-vpn/no-log-vpns/
-- https://hackenvpn.com
-- Intelligence Tool: https://intelx.io
-- Open Source Intelligence (OSINT) of Russian Army: https://www.gfsis.org/maps/russian-military-forces
-- CyberHub Archive: https://github.com/cyberhubarchive/archive
-- Block Russian traffic to your website: https://redirectrussia.org
-- Companies Boycotted Russia: https://www.boycottrussia.info/boycotted
-- Captured Russian Soldiers: https://invaders-rf.com
-- Support Ukraine: https://github.com/AndrewStetsenko/Support-Ukraine as well as statement from one of few Ukrainians unicorns ($1B startups) https://www.grammarly.com/stand-with-ukraine, or https://war.ukraine.ua/support-ukraine/
-- Upload an artifact to a list of damages Russia did: https://damaged.in.ua.
-- Live Map of Ukraine: https://liveuamap.com
-- Report Russian Army position to Telegram chat: https://t.me/evorog_bot
+- [Official IT-Army Website](https://itarmy.com.ua/)
+- [Best No Logs VPNs](https://cybernews.com/best-vpn/no-log-vpns/)
+- [HackenVPN](https://hackenvpn.com)
+- [Intelligence Tool](https://intelx.io)
+- [Open Source Intelligence (OSINT) of Russian Army](https://www.gfsis.org/maps/russian-military-forces)
+- [CyberHub Archive](https://github.com/cyberhubarchive/archive)
+- [Block Russian traffic to your website](https://redirectrussia.org)
+- [Companies Boycotted Russia](https://www.boycottrussia.info/boycotted)
+- [Captured Russian Soldiers](https://invaders-rf.com)
+- ["Support Ukraine"](https://github.com/AndrewStetsenko/Support-Ukraine) [as well as statement from one of few Ukrainians unicorns ($1B startups)](https://www.grammarly.com/stand-with-ukraine), or [War Ukraine UA](https://war.ukraine.ua/support-ukraine/)
+- [Upload an artifact to a list of damages Russia did](https://damaged.in.ua)
+- [Live Map of Ukraine](https://liveuamap.com)
+- [Report Russian Army position to Telegram chat](https://t.me/evorog_bot)
