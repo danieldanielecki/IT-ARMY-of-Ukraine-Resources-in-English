@@ -17,7 +17,7 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 ## Distributed Denial of Service Attack (DDoS Attack) Instruction
 
 1. Download the Tor Browser: https://www.torproject.org/download/
-2. Go to the websites ... The list was copied from https://slink.news/2022/03/16/join-the-fight-here/ (see more up-to-date list there) and other places. Some sites may be temporary blocked or down.
+2. Go to the websites ... The list was copied from [Slink News join the fight page](https://slink.news/2022/03/16/join-the-fight-here/) (see more up-to-date list there) and other places. Some sites may be temporary blocked or down.
  - https://ban-dera.com
  - https://eitzen.at/fckptn/
  - https://stopwarnow.github.io
