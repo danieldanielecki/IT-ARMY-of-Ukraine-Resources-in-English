@@ -27,10 +27,10 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 3. https://github.com/erkexzcx/stoppropaganda
 4. https://github.com/palahsu/DDoS-Ripper
 5. https://github.com/D3pR4V3d/norussian
-6. ~~https://github.com/almerico/bombardier~~ - Disabled by GitHub Staff.
-7. https://github.com/Arriven/db1000n
-8. https://github.com/breakerspace/weaponizing-censors
-9. https://disbalancer.com
+6. https://github.com/Arriven/db1000n
+7. https://github.com/breakerspace/weaponizing-censors
+8. https://disbalancer.com
+9. ~~https://github.com/almerico/bombardier~~ - Disabled by GitHub Staff.
 
 ## OSINT Tools
 
