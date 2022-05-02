@@ -107,6 +107,15 @@ Important! Don’t forget the enabled VPN, which you need to change from time to
 6. https://vm.tiktok.com/ZMLSTwtdQ/
 7. https://vm.tiktok.com/ZMLSwSCLc/
 
+## Pro-Putin Telegram channels
+
+The list https://t.me/itarmyofukraine2022chat/10904 contains many pro-Putin Telegram  accounts/channels.
+The list may contain already banned accounts.
+
+You can report any post (e.g. on iPad long tap and select Report) 
+and explain the reason( E.g.  specify “other-Russian aggression propaganda”). 
+Unfortunately it’s up to Telegram moderators to remove a message or ban account.
+
 ## Largest Russian Banks
 
 | No. | Bank                  |  Assets (₽M) | WWW (Attack Target)         |
