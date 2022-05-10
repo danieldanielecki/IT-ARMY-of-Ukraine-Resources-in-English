@@ -37,7 +37,7 @@ E.g. on Windows go to “Power and Sleep settings” and set PC goes to sleep: N
 Warning! When opening these sites, your  **computer/tablet/mobile may be slow**.
 Important! Don’t forget the enabled VPN, which you need to change from time to time, or Tor Browser, which you need to reopen periodically.  
 
-3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points) or https://ddosmonitor.herokuapp.com
+3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points)
 
 ### Other DDoS Tools
 
