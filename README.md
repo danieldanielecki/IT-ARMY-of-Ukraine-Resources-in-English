@@ -19,17 +19,18 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 1. Download the Tor Browser: https://www.torproject.org/download/
 2. Go to the websites ... The list was copied from [Slink News join the fight page](https://slink.news/2022/03/16/join-the-fight-here/) (see more up-to-date list there) and other places. Some sites may be temporary blocked or down.
  - https://ban-dera.com
- - https://eitzen.at/fckptn/
+ - https://ddos-separ.ml
+ - https://eitzen.at/fckptn
  - https://stopwarnow.github.io
- - https://павутина.укр/
- - https://www.lookquizru.xyz/
+ - https://павутина.укр
+ - https://www.lookquizru.xyz
  - https://2022pollquizinru.xyz
  - https://playforukraine.live
  - https://stop-russian-propaganda.pp.ua
  - http://www.notwar.ho.ua
  - https://stop-russian-desinformation.near.page
- - https://gloryofukraine.github.io/Stop-Russian-Invasion/
- - https://carlostkd.ch/support/
+ - https://gloryofukraine.github.io/Stop-Russian-Invasion
+ - https://carlostkd.ch/support
 
 Hint: Consider   to **disable computer sleep setting**, otherwise your computer will stop after some time.
 E.g. on Windows go to “Power and Sleep settings” and set PC goes to sleep: NEVER
